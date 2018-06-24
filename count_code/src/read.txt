@@ -12,7 +12,7 @@
 所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\core\remote\RemoteServiceInvoker.java
 方法名：init
 代码行定位：148
-
+1111
 145         		String keyStoreSecret = AppSettings.getKeystoreSecret();
 146         		Log.e("11111","1111="+keyStoreSecret);
 147         		String keyStoreFilename=AppSettings.getKeystoreFile();
