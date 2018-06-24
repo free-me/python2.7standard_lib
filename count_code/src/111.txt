@@ -1,0 +1,1405 @@
+[FixInsight Warning] uDeclareCommon.pas(551): W519 Method 'FuncExtra' is empty
+[FixInsight Warning] uDeclareCommon.pas(1222): W519 Method 'ShowActiveCell' is empty
+[FixInsight Warning] uDeclareCommon.pas(550): W521 Return value of function 'FuncExtra' might be undefined
+[FixInsight Optimization] uDeclareCommon.pas(550): O801 CONST missing for unmodified string parameter 'funcName'
+[FixInsight Optimization] uDeclareCommon.pas(592): O801 CONST missing for unmodified string parameter 'DeclareID'
+[FixInsight Optimization] uDeclareCommon.pas(623): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(665): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(759): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(776): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(893): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(924): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1042): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1053): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1062): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1113): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1113): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1134): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1134): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1226): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1255): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1433): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1433): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1445): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1445): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1445): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1457): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1457): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1471): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1471): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1471): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1865): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1865): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1865): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1909): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1909): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1909): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1929): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1929): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(2052): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(2097): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(2395): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1113): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1134): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareCommon.pas(1864): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] FormulaParser.pas(483): W521 Return value of function 'NewRoundTo' might be undefined
+[FixInsight Warning] FormulaParser.pas(470): W528 Variable 'i' not used in FOR-loop
+[FixInsight Warning] FormulaParser.pas(502): W528 Variable 'i' not used in FOR-loop
+[FixInsight Optimization] FormulaParser.pas(163): O801 CONST missing for unmodified string parameter 'FuncName'
+[FixInsight Optimization] FormulaParser.pas(166): O801 CONST missing for unmodified string parameter 'FuncName'
+[FixInsight Optimization] FormulaParser.pas(169): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(172): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(175): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(178): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(181): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(184): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(187): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(190): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(193): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(195): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(197): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(199): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(202): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(205): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(207): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(209): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(211): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(213): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(215): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(259): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(259): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(260): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(260): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(263): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(263): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(652): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1186): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1195): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1215): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1235): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1252): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1270): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1279): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1288): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1297): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1306): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1315): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1324): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1332): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1344): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1364): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1395): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1418): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1439): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1450): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaParser.pas(1461): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaToken.pas(134): O801 CONST missing for unmodified string parameter 'Value'
+[FixInsight Optimization] FormulaToken.pas(166): O801 CONST missing for unmodified string parameter 'Value'
+[FixInsight Optimization] FormulaToken.pas(256): O801 CONST missing for unmodified string parameter 'Value'
+[FixInsight Optimization] FormulaToken.pas(275): O801 CONST missing for unmodified string parameter 'Buffer'
+[FixInsight Optimization] FormulaToken.pas(304): O801 CONST missing for unmodified string parameter 'Buffer'
+[FixInsight Optimization] FormulaToken.pas(304): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaToken.pas(329): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaToken.pas(436): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] FormulaToken.pas(451): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1041): W519 Method 'TCustomDeclareBroker.ExecuteAuditAndLock' is empty
+[FixInsight Warning] uCustomDeclare.pas(1049): W519 Method 'TCustomDeclareBroker.CancelAuditAndLock' is empty
+[FixInsight Warning] uCustomDeclare.pas(1102): W519 Method 'TCustomDeclareBroker.ExecuteFileDeclare' is empty
+[FixInsight Warning] uCustomDeclare.pas(1110): W519 Method 'TCustomDeclareBroker.CancelDeclare' is empty
+[FixInsight Warning] uCustomDeclare.pas(1118): W519 Method 'TCustomDeclareBroker.ExecutePayMoney' is empty
+[FixInsight Warning] uCustomDeclare.pas(1126): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1287): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1980): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1985): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1040): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1048): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1101): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1109): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1117): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1125): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1291): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1979): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(1984): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomDeclare.pas(3270): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(542): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(542): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1053): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1053): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1053): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1664): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1664): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1865): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1865): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1912): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1912): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1953): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1953): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1989): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1989): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(4058): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(4058): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(1148): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(3160): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomDeclare.pas(3839): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomReport.pas(3743): W503 Assignment right hand side is equal to its left hand side
+[FixInsight Warning] uCustomReport.pas(4307): W508 Variable is assigned twice successively
+[FixInsight Warning] uCustomReport.pas(729): W509 Unreachable code
+[FixInsight Warning] uCustomReport.pas(526): W519 Method 'TCustomReportBroker.CellButtoned' is empty
+[FixInsight Warning] uCustomReport.pas(532): W519 Method 'TCustomReportBroker.CellChanged' is empty
+[FixInsight Warning] uCustomReport.pas(539): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomReport.pas(4098): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomReport.pas(4777): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomReport.pas(2156): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] uCustomReport.pas(6139): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(591): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(616): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(629): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(629): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(642): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1413): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1526): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1526): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1787): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1787): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(3157): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(3889): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4099): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4099): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4436): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(5551): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(5551): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(5551): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(5551): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6242): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6334): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1119): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1413): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1787): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1787): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(1789): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(2271): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4129): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4129): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4129): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(4130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6242): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6310): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6310): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6310): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6312): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uCustomReport.pas(6322): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] uDeclareRemote.pas(28): O801 CONST missing for unmodified string parameter 'sTran_id'
+[FixInsight Optimization] uDeclareRemote.pas(28): O801 CONST missing for unmodified string parameter 'sReqXML'
+[FixInsight Warning] uDeclareEditForm.pas(968): W510 Values on both sides of the operator are equal
+[FixInsight Warning] uDeclareEditForm.pas(1455): W528 Variable 'j' not used in FOR-loop
+[FixInsight Optimization] uDeclareEditForm.pas(471): O804 Method parameter 'ASender' is declared but never used
+[FixInsight Warning] gt3aipservice.pas(154): W504 Missing INHERITED call in destructor
+[FixInsight Warning] gt3aipservice.pas(61): W522 Destructor without an override directive
+[FixInsight Optimization] gt3aipservice.pas(160): O801 CONST missing for unmodified string parameter 'sTran_id'
+[FixInsight Optimization] gt3aipservice.pas(160): O801 CONST missing for unmodified string parameter 'sReqXML'
+[FixInsight Optimization] gt3aipservice.pas(118): O804 Method parameter 'MethodName' is declared but never used
+[FixInsight Warning] KitApp.TaxDeclare.Manager.pas(977): W521 Return value of function 'TTaxDeclareManager.CreateDeclaration' might be undefined
+[FixInsight Optimization] KitApp.TaxDeclare.Manager.pas(664): O801 CONST missing for unmodified string parameter 'ADelcareDataId'
+[FixInsight Optimization] KitApp.TaxDeclare.Manager.pas(556): O804 Method parameter 'ADeclarationId' is declared but never used
+[FixInsight Warning] KitApp.TaxDeclare.PeriodSelector.pas(516): W519 Method 'TTaxDeclarePeriodSelectForm.dtpPeriodStartChange' is empty
+[FixInsight Optimization] KitApp.TaxDeclare.PeriodSelector.pas(47): O801 CONST missing for unmodified string parameter 'yzpzzlDm'
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(2198): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(2900): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3156): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(1570): W508 Variable is assigned twice successively
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(614): W512 Odd ELSE-IF condition (review lines 614 and 616)
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(694): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(536): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(542): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(588): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(593): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(653): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(815): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(1504): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(2259): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(2719): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(2802): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3149): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3337): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3342): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3347): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3357): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3437): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3657): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3742): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(3978): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(4311): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(4498): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(4554): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(4679): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(4784): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.App.TaxDeclareActions.pas(4862): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(901): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(2564): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3149): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3149): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3437): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3437): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3438): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3984): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(4027): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(4073): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(4108): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(4316): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(1006): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(1094): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(1223): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(1263): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(2144): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(2909): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.TaxDeclareActions.pas(3149): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(1641): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(1760): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(2674): W508 Variable is assigned twice successively
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(525): W521 Return value of function 'TDzbsService.getSlzsl' might be undefined
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(685): W521 Return value of function 'TDzbsService.GetGdjmxz' might be undefined
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(730): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(963): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(990): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(1035): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(1130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(1541): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(2693): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(2556): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.DzbsService.pas(2558): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(431): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(492): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(492): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(492): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(492): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(509): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(509): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(509): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(509): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(525): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(525): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(525): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(525): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(525): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(606): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(606): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(606): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(642): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(685): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(712): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(730): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(730): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(787): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(787): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(963): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(990): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1035): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1035): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1060): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1081): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1111): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1111): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1111): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1155): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1155): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1188): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1188): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1188): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1188): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1188): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1188): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1266): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1266): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1266): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1266): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1313): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1313): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1313): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1313): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1355): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1355): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1355): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1355): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1411): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1411): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1411): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1411): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1466): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1466): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1466): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1466): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1508): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1541): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1541): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1587): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1587): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1587): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1587): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1629): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1645): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1670): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1726): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1764): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1813): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1813): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1813): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1813): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1857): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1874): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1905): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1905): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1905): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1905): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1967): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1967): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(1988): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2013): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2048): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2048): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2048): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2096): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2243): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2243): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2243): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2243): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2243): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2358): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2358): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2358): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2397): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2397): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2397): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2473): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2473): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2473): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2549): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2549): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2549): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2549): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2549): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2549): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2592): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2592): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2626): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2626): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2653): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2693): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2693): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2735): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2735): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2788): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2788): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2788): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2788): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2789): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2789): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(2789): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.DzbsService.pas(786): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.TaxSourceService.pas(3366): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.Biz.Impl.TaxSourceService.pas(6091): W502 Empty FINALLY block
+[FixInsight Warning] KitApp.Biz.Impl.TaxSourceService.pas(2425): W508 Variable is assigned twice successively
+[FixInsight Warning] KitApp.Biz.Impl.TaxSourceService.pas(9909): W511 Object 'jcxxItem' created in TRY block
+[FixInsight Warning] KitApp.Biz.Impl.TaxSourceService.pas(10677): W521 Return value of function 'TTaxSourceService.JYsfzrdxx' might be undefined
+[FixInsight Warning] KitApp.Biz.Impl.TaxSourceService.pas(10706): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Remote.TaxDeclareRemoteService.pas(76): W521 Return value of function 'TTaxDeclareRemoteService.DoUnionPayment' might be undefined
+[FixInsight Warning] KitApp.Remote.TaxDeclareRemoteService.pas(88): W521 Return value of function 'TTaxDeclareRemoteService.GetPayableData' might be undefined
+[FixInsight Warning] KitApp.Remote.TaxDeclareRemoteService.pas(350): W521 Return value of function 'TTaxDeclareRemoteService.GetDutyDeclareInfo' might be undefined
+[FixInsight Warning] KitApp.Remote.TaxDeclareRemoteService.pas(369): W521 Return value of function 'TTaxDeclareRemoteService.SubmitDeclaration' might be undefined
+[FixInsight Warning] uManageAttachs.pas(148): W519 Method 'TfrmManageAttachs.Finalize' is empty
+[FixInsight Optimization] FormulaParser.pas(245): O803 Constant 'PATTERN_VALID' is declared but never used
+[FixInsight Optimization] FormulaParser.pas(246): O803 Constant 'PATTERN_ESC' is declared but never used
+[FixInsight Optimization] FormulaParser.pas(247): O803 Constant 'PATTERN_RANGE' is declared but never used
+[FixInsight Optimization] FormulaParser.pas(248): O803 Constant 'PATTERN_CLOSE' is declared but never used
+[FixInsight Optimization] FormulaParser.pas(249): O803 Constant 'PATTERN_EMPTY' is declared but never used
+[FixInsight Optimization] KitApp.Biz.Impl.TaxDeclareService.pas(264): O803 Constant 'DECLARED_INFO_QUERY_RESULT_KEY' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(161): O803 Constant 's__sbxxGrid' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(142): O803 Constant 's__fn' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(159): O803 Constant 's__alarm' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(164): O803 Constant 's__zsxmDm' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(143): O803 Constant 's__sk' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(137): O803 Constant 's__restype' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(157): O803 Constant 's__base64' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(147): O803 Constant 's__year' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(117): O803 Constant 's__key' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(145): O803 Constant 's__isb' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(144): O803 Constant 's__isa' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(138): O803 Constant 's__resname' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(149): O803 Constant 's__sb' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(162): O803 Constant 's__sbxxGridlb' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(146): O803 Constant 's__bkind' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(148): O803 Constant 's__taxid' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(163): O803 Constant 's__zspmDm' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(141): O803 Constant 's__gl' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(150): O803 Constant 's__se' is declared but never used
+[FixInsight Optimization] uDeclareCommon.pas(126): O803 Constant 's__merged' is declared but never used
+[FixInsight Convention] KitApp.UI.ModuleLauncher.pas(204): C101 Method 'TModuleLauhcher.InternalOpen' is too long (63 lines)
+[FixInsight Convention] KitApp.Data.SyncHelper.pas(122): C103 Too many variables in '__process12Data' (10 variables)
+[FixInsight Warning] KitApp.Data.SyncHelper.pas(151): W528 Variable 'i' not used in FOR-loop
+[FixInsight Convention] KitApp.App.SessionManager.pas(188): C101 Method 'TSessionManager.SetCurrentTaxpayer' is too long (126 lines)
+[FixInsight Convention] KitApp.App.SessionManager.pas(328): C101 Method 'TSessionManager.SetCurrentTaxpayer' is too long (107 lines)
+[FixInsight Convention] KitApp.App.SessionManager.pas(177): C103 Too many variables in 'TSessionManager.SetCurrentTaxpayer' (10 variables)
+[FixInsight Convention] KitApp.App.SessionManager.pas(317): C103 Too many variables in 'TSessionManager.SetCurrentTaxpayer' (10 variables)
+[FixInsight Optimization] KitApp.App.SessionManager.pas(71): O801 CONST missing for unmodified string parameter 'ATaxpayerId'
+[FixInsight Optimization] KitApp.App.SessionManager.pas(71): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.SessionManager.pas(142): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.SessionManager.pas(142): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.SessionManager.pas(72): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.SessionManager.pas(72): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.App.SessionManager.pas(72): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Common.CATools.pas(235): W521 Return value of function 'TCATools.GetTaxpayerNo' might be undefined
+[FixInsight Optimization] KitApp.Common.CATools.pas(84): O804 Method parameter 'AEncryptedData' is declared but never used
+[FixInsight Optimization] KitApp.Common.CATools.pas(84): O804 Method parameter 'ADecryptedData' is declared but never used
+[FixInsight Optimization] KitApp.Common.CATools.pas(95): O804 Method parameter 'AData' is declared but never used
+[FixInsight Optimization] KitApp.Common.CATools.pas(95): O804 Method parameter 'ASignedData' is declared but never used
+[FixInsight Optimization] KitApp.Common.CATools.pas(133): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Common.CATools.pas(133): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Common.CATools.pas(195): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Common.CATools.pas(195): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Common.CATools.pas(235): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Model.Communication.pas(24): O803 Constant 'QSTATUS_NOVERIFIED' is declared but never used
+[FixInsight Optimization] KitApp.Model.Communication.pas(25): O803 Constant 'QSTATUS_DELETE' is declared but never used
+[FixInsight Optimization] KitApp.Model.Communication.pas(21): O803 Constant 'QSTATUS_ERROR' is declared but never used
+[FixInsight Optimization] KitApp.Model.Communication.pas(22): O803 Constant 'QSTATUS_CHECK' is declared but never used
+[FixInsight Optimization] KitApp.Model.Communication.pas(23): O803 Constant 'QSTATUS_VERIFIED' is declared but never used
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(443): C101 Method 'TTAReportDriver.FillAreaData' is too long (57 lines)
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(768): C101 Method 'TTAReportDriver.CellCtrlMouseLClick' is too long (150 lines)
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(933): C101 Method 'TTAReportDriver.ShowCombobox' is too long (194 lines)
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1283): C101 Method 'TTAReportDriver.GenerateBusinessData' is too long (132 lines)
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1637): C101 Method 'TTAReportDriver.InitCellControl' is too long (58 lines)
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1879): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2184): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2335): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2444): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2782): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(436): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(667): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(920): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1134): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1207): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1861): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1958): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1959): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2330): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2436): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2497): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2518): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(2689): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.ReportDriver.pas(1563): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.TaxApply.ReportDriver.pas(2788): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.TaxApply.ReportDriver.pas(1130): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(650): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(650): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(650): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(655): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(661): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(667): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(667): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(712): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(724): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(730): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(736): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(736): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(736): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.ReportDriver.pas(755): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.CellExFunc.pas(27): O804 Method parameter 'Args' is declared but never used
+[FixInsight Optimization] KitApp.TaxApply.CellExFunc.pas(27): O804 Method parameter 'Driver' is declared but never used
+[FixInsight Optimization] KitApp.TaxApply.Common.pas(83): O804 Method parameter 'ATaxApplyDef' is declared but never used
+[FixInsight Optimization] KitApp.TaxApply.Common.pas(93): O804 Method parameter 'ADictName' is declared but never used
+[FixInsight Optimization] KitApp.TaxApply.Common.pas(93): O804 Method parameter 'ADriver' is declared but never used
+[FixInsight Optimization] KitApp.TaxApply.Common.pas(148): O804 Method parameter 'ADriver' is declared but never used
+[FixInsight Convention] KitApp.TaxApply.Helper.pas(153): C101 Method 'TTaxApplyHelper.LoadTaxApplies' is too long (184 lines)
+[FixInsight Convention] KitApp.TaxApply.Helper.pas(346): C101 Method 'TTaxApplyHelper.RestartTaxApply' is too long (80 lines)
+[FixInsight Convention] KitApp.TaxApply.Helper.pas(138): C103 Too many variables in 'TTaxApplyHelper.LoadTaxApplies' (17 variables)
+[FixInsight Convention] KitApp.TaxApply.Helper.pas(339): C103 Too many variables in 'TTaxApplyHelper.RestartTaxApply' (14 variables)
+[FixInsight Convention] KitApp.TaxApply.ReportValidator.pas(264): C101 Method 'TTAReportValidator.Validate' is too long (69 lines)
+[FixInsight Convention] KitApp.TaxApply.ReportValidator.pas(254): C103 Too many variables in 'TTAReportValidator.Validate' (12 variables)
+[FixInsight Convention] KitApp.TaxCommon.Common.pas(604): C103 Too many variables in 'ParseCellCoordinate' (8 variables)
+[FixInsight Convention] KitApp.TaxCommon.Common.pas(55): C110 Getter or setter name is different from property declaration
+[FixInsight Convention] KitApp.TaxCommon.Common.pas(60): C110 Getter or setter name is different from property declaration
+[FixInsight Convention] KitApp.TaxCommon.Common.pas(65): C110 Getter or setter name is different from property declaration
+[FixInsight Convention] KitApp.TaxCommon.Common.pas(399): C110 Getter or setter name is different from property declaration
+[FixInsight Convention] KitApp.TaxCommon.Common.pas(510): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.Common.pas(702): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.Common.pas(762): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.Common.pas(769): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.TaxCommon.CellExFuncDef.pas(145): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDef.pas(145): O801 CONST missing for unmodified string parameter 'CategoryName'
+[FixInsight Convention] KitApp.TaxCommon.CellExFuncDefaults.pas(122): C101 Method 'TDefaultCellExFunctions.ENV' is too long (71 lines)
+[FixInsight Warning] KitApp.TaxCommon.CellExFuncDefaults.pas(69): W521 Return value of function 'TDefaultCellExFunctions.EMPTYCELL' might be undefined
+[FixInsight Warning] KitApp.TaxCommon.CellExFuncDefaults.pas(85): W521 Return value of function 'TDefaultCellExFunctions.EMPTYCELLS' might be undefined
+[FixInsight Warning] KitApp.TaxCommon.CellExFuncDefaults.pas(105): W521 Return value of function 'TDefaultCellExFunctions.EMPTYAREACELL' might be undefined
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDefaults.pas(195): O804 Method parameter 'Args' is declared but never used
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDefaults.pas(195): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDefaults.pas(220): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDefaults.pas(220): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDefaults.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxCommon.CellExFuncDefaults.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxCommon.CellExFuncManager.pas(72): C101 Method 'TCellExFunctionManager.LoadLibrary' is too long (83 lines)
+[FixInsight Convention] KitApp.TaxCommon.CellExFuncManager.pas(54): C103 Too many variables in 'TCellExFunctionManager.LoadLibrary' (23 variables)
+[FixInsight Warning] KitApp.TaxCommon.CellExFuncManager.pas(84): W501 Empty EXCEPT block
+[FixInsight Convention] KitApp.Model.ApplyCodes.pas(391): C107 Class field name 'Cxnsrsbh' should start with 'F'
+[FixInsight Convention] KitApp.Model.ApplyCodes.pas(392): C107 Class field name 'Cxnsrmc' should start with 'F'
+[FixInsight Convention] KitApp.Model.ApplyCodes.pas(393): C107 Class field name 'Cxyxbz' should start with 'F'
+[FixInsight Convention] KitApp.Model.ApplyCodes.pas(394): C107 Class field name 'Cxxybz' should start with 'F'
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(170): C104 Class name 'FZjgxx' should start with 'T'
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(187): C107 Class field name 'Chznsmxuuid' should start with 'F'
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(188): C107 Class field name 'Chznsuuid' should start with 'F'
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(189): C107 Class field name 'Cbhzrdjxh' should start with 'F'
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(190): C107 Class field name 'Cbhznsqynsrsbh' should start with 'F'
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(191): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(192): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(193): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(194): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(195): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(196): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(197): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(198): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(199): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(200): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(224): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(226): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(227): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(228): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(229): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(230): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(231): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(232): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(233): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(234): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(235): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(258): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(259): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(260): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Model.BsdtSpxx.pas(261): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.TaxApply.WebAction.pas(310): C101 Method 'TTaxApplyWebAction.GetTaxApplyDefs' is too long (61 lines)
+[FixInsight Convention] KitApp.TaxApply.WebAction.pas(384): C101 Method 'TTaxApplyWebAction.GetTaxPreferenceApplyCategories' is too long (54 lines)
+[FixInsight Convention] KitApp.TaxApply.WebAction.pas(451): C101 Method 'TTaxApplyWebAction.GetTaxPrefernceSwsxDefs' is too long (60 lines)
+[FixInsight Convention] KitApp.TaxApply.WebAction.pas(297): C103 Too many variables in 'TTaxApplyWebAction.GetTaxApplyDefs' (15 variables)
+[FixInsight Convention] KitApp.TaxApply.WebAction.pas(373): C103 Too many variables in 'TTaxApplyWebAction.GetTaxPreferenceApplyCategories' (9 variables)
+[FixInsight Convention] KitApp.TaxApply.WebAction.pas(440): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.TaxApply.WebAction.pas(457): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.WebAction.pas(373): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.TaxApply.WebAction.pas(659): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.SssqService.pas(121): C101 Method 'TSssqService.GetSsJmxz' is too long (51 lines)
+[FixInsight Convention] KitApp.Biz.Impl.SssqService.pas(304): C101 Method 'TSssqService.UniteAccept' is too long (88 lines)
+[FixInsight Convention] KitApp.Biz.Impl.SssqService.pas(116): C103 Too many variables in 'TSssqService.GetSsJmxz' (8 variables)
+[FixInsight Convention] KitApp.Biz.Impl.SssqService.pas(236): C103 Too many variables in 'TSssqService.GetNsrxxList' (8 variables)
+[FixInsight Convention] KitApp.Biz.Impl.SssqService.pas(292): C103 Too many variables in 'TSssqService.UniteAccept' (13 variables)
+[FixInsight Warning] KitApp.Biz.Impl.SssqService.pas(205): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(116): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(116): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(116): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(116): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(174): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(205): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(236): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(292): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(292): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(292): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(292): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Biz.Impl.SssqService.pas(292): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(298): C101 Method 'TTaxApplyService.CreateApply' is too long (52 lines)
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(378): C101 Method 'TTaxApplyService.GetApplyReceipts' is too long (72 lines)
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(553): C101 Method 'TTaxApplyService.SyncTaxApply' is too long (134 lines)
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(788): C101 Method 'TTaxApplyService.GetTaxPreferenceSwsx' is too long (98 lines)
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(901): C101 Method 'TTaxApplyService.GlobalApplyCreationCheck' is too long (82 lines)
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(1098): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(1212): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(366): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(537): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(888): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Convention] KitApp.Biz.Impl.TaxApplyService.pas(1087): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.TaxApplyService.pas(704): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.Biz.Impl.TaxApplyService.pas(738): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.UI.Jcxx.JkxxList.pas(40): W519 Method 'TJkxxListForm.Finalize' is empty
+[FixInsight Warning] KitApp.UI.Jcxx.JkxxList.pas(46): W519 Method 'TJkxxListForm.grdJkxxRenderCell' is empty
+[FixInsight Convention] KitApp.TaxApply.WebActions.pas(126): C103 Too many variables in 'TTaxApplyWebActions.GetTaxApplies' (8 variables)
+[FixInsight Warning] KitApp.TaxApply.WebActions.pas(99): W521 Return value of function 'TTaxApplyWebActions.RestartTaxApply' might be undefined
+[FixInsight Warning] KitApp.TaxApply.WebActions.pas(186): W521 Return value of function 'TTaxApplyWebActions.OpenTaxPrefrenceIndexForm' might be undefined
+[FixInsight Warning] KitApp.TaxApply.WebActions.pas(191): W521 Return value of function 'TTaxApplyWebActions.RemoveTaxApply' might be undefined
+[FixInsight Warning] KitApp.TaxApply.WebActions.pas(240): W521 Return value of function 'TTaxApplyWebActions.UpdateTaxApply' might be undefined
+[FixInsight Warning] KitApp.TaxApply.WebActions.pas(246): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] KitApp.TaxApply.WebActions.pas(252): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.Model.TaxApply.pas(46): O803 Constant 'TAX_APPLY_APPROVE_STATE_05' is declared but never used
+[FixInsight Optimization] KitApp.Model.TaxApply.pas(51): O803 Constant 'TAX_APPLY_APPROVE_STATE_06' is declared but never used
+[FixInsight Optimization] KitApp.Model.TaxApply.pas(31): O803 Constant 'TAX_APPLY_APPROVE_STATE_02' is declared but never used
+[FixInsight Optimization] KitApp.Model.TaxApply.pas(36): O803 Constant 'TAX_APPLY_APPROVE_STATE_03' is declared but never used
+[FixInsight Optimization] KitApp.Model.TaxApply.pas(41): O803 Constant 'TAX_APPLY_APPROVE_STATE_04' is declared but never used
+[FixInsight Optimization] KitApp.Model.Base.pas(35): O801 CONST missing for unmodified string parameter 'APropertyName'
+[FixInsight Warning] KitApp.Biz.Impl.ApplicationService.pas(79): W511 Object 'dataItem' created in TRY block
+[FixInsight Warning] KitApp.Biz.Impl.DictService.pas(69): W525 Missing INHERITED call in constructor
+[FixInsight Warning] KitApp.App.IModuleManager.pas(60): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] KitApp.App.Application.pas(335): O804 Method parameter 'ATaxpayerId' is declared but never used
+[FixInsight Optimization] KitApp.App.ModuleManager.pas(149): O801 CONST missing for unmodified string parameter 'ModuleId'
+[FixInsight Optimization] KitApp.App.Session.pas(80): O801 CONST missing for unmodified string parameter 'AKey'
+[FixInsight Optimization] KitApp.App.Session.pas(119): O801 CONST missing for unmodified string parameter 'AKey'
+[FixInsight Warning] KitApp.App.Settings.pas(137): W517 Variable 'RemoteServerUrl' hides a class field, method or property
+[FixInsight Optimization] KitApp.App.Settings.pas(360): O801 CONST missing for unmodified string parameter 'AName'
+[FixInsight Warning] KitApp.UI.IProgressReceiver.pas(28): W519 Method 'TLambdaProgressReceiver.CompleteProgress' is empty
+[FixInsight Warning] KitApp.UI.IProgressReceiver.pas(33): W519 Method 'TLambdaProgressReceiver.StartProgress' is empty
+[FixInsight Warning] KitApp.UI.IProgressReceiver.pas(38): W519 Method 'TLambdaProgressReceiver.UpdateMessage' is empty
+[FixInsight Warning] KitApp.UI.IProgressReceiver.pas(43): W519 Method 'TLambdaProgressReceiver.UpdateProgress' is empty
+[FixInsight Warning] KitApp.Remote.ConfigData.pas(51): W525 Missing INHERITED call in constructor
+[FixInsight Warning] KitApp.Biz.Impl.DictSyncService.pas(64): W525 Missing INHERITED call in constructor
+[FixInsight Warning] KitApp.Remote.RemoteService.pas(475): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] KitApp.Remote.RemoteService.pas(475): O801 CONST missing for unmodified string parameter 'ServiceId'
+[FixInsight Warning] KitApp.Remote.General.pas(141): W521 Return value of function 'TRemoteServiceGeneral.InvokeAnyService' might be undefined
+[FixInsight Warning] KitApp.UI.TaxPeriodControl.pas(296): W528 Variable 'i' not used in FOR-loop
+[FixInsight Optimization] KitApp.UI.TaxPeriodControl.pas(316): O804 Method parameter 'X' is declared but never used
+[FixInsight Optimization] KitApp.UI.TaxPeriodControl.pas(316): O804 Method parameter 'Y' is declared but never used
+[FixInsight Optimization] KitApp.UI.TaxPeriodControl.pas(515): O804 Method parameter 'AEventContext' is declared but never used
+[FixInsight Optimization] KitApp.UI.TaxPeriodControl.pas(516): O804 Method parameter 'X' is declared but never used
+[FixInsight Optimization] KitApp.UI.TaxPeriodControl.pas(516): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] KitApp.UI.CellCombobox.pas(120): O804 Method parameter 'AEventContext' is declared but never used
+[FixInsight Optimization] KitApp.UI.CellCombobox.pas(120): O804 Method parameter 'X' is declared but never used
+[FixInsight Optimization] KitApp.UI.CellCombobox.pas(120): O804 Method parameter 'Y' is declared but never used
+[FixInsight Optimization] KitApp.UI.CellCombobox.pas(126): O804 Method parameter 'X' is declared but never used
+[FixInsight Optimization] KitApp.UI.CellCombobox.pas(126): O804 Method parameter 'Y' is declared but never used
+[FixInsight Warning] KitApp.Remote.TaxpayerRemoteService.pas(71): W521 Return value of function 'TTaxpayerRemoteService.GetBasicInfo' might be undefined
+[FixInsight Warning] KitApp.Remote.TaxpayerRemoteService.pas(94): W521 Return value of function 'TTaxpayerRemoteService.GetBasicInfo' might be undefined
+[FixInsight Warning] KitApp.Remote.TaxpayerRemoteService.pas(115): W521 Return value of function 'TTaxpayerRemoteService.GetTaxpayerId' might be undefined
+[FixInsight Warning] KitApp.Remote.TaxpayerRemoteService.pas(138): W521 Return value of function 'TTaxpayerRemoteService.Login' might be undefined
+[FixInsight Warning] KitApp.Global.AlanoAction.pas(233): W511 Object 'attrs' created in TRY block
+[FixInsight Warning] KitApp.Global.AlanoAction.pas(344): W521 Return value of function 'TAlanoAction.OpenModule' might be undefined
+[FixInsight Optimization] KitApp.Global.GlobalAction.pas(109): O804 Method parameter 'AViewHandle' is declared but never used
+[FixInsight Optimization] KitApp.Remote.TaxRemoteService.pas(73): O803 Constant 'RSID_MISC' is declared but never used
+[FixInsight Optimization] KitApp.Model.Module.pas(14): O803 Constant 'MOM_IN_MAIN_WORKAREA' is declared but never used
+[FixInsight Optimization] KitApp.Model.Module.pas(15): O803 Constant 'MOM_MODAL' is declared but never used
+[FixInsight Optimization] KitApp.Model.Module.pas(16): O803 Constant 'MOM_URL' is declared but never used
+[FixInsight Optimization] KitApp.Model.Module.pas(17): O803 Constant 'MOM_OTHER' is declared but never used
+[FixInsight Optimization] KitApp.Model.AbstractUser.pas(20): O803 Constant 'USER_STATUS_NORMAL' is declared but never used
+[FixInsight Optimization] KitApp.Model.AbstractUser.pas(21): O803 Constant 'USER_STATUS_LOCKED' is declared but never used
+[FixInsight Optimization] KitApp.Model.AbstractUser.pas(22): O803 Constant 'USER_STATUS_REMOVED' is declared but never used
+[FixInsight Optimization] KitApp.Model.AbstractUser.pas(25): O803 Constant 'ROLE_ADMIN' is declared but never used
+[FixInsight Optimization] KitApp.Model.AbstractUser.pas(26): O803 Constant 'ROLE_ISSUER' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(58): O803 Constant 'GT3_TRAN_ID_0087' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(132): O803 Constant 'GT3_TRAN_ID_0181' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(18): O803 Constant 'GT3_TRAN_ID_0001' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(44): O803 Constant 'GT3_TRAN_ID_0041' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(38): O803 Constant 'GT3_TRAN_ID_0116' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(109): O803 Constant 'GT3_TRAN_ID_0138' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(126): O803 Constant 'GT3_TRAN_ID_0154' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(128): O803 Constant 'GT3_TRAN_ID_0180' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(123): O803 Constant 'GT3_TRAN_ID_0149' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(151): O803 Constant 'GT3_TRAN_ID_0273' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(84): O803 Constant 'GT3_TRAN_ID_0032' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(25): O803 Constant 'GT3_TRAN_ID_0014' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(114): O803 Constant 'GT3_TRAN_ID_0140' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(156): O803 Constant 'GT3_TRAN_ID_0282' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(21): O803 Constant 'GT3_TRAN_ID_0019' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(10): O803 Constant 'RSID_GET_DUTY_DECLARE_INFO' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(33): O803 Constant 'GT3_TRAN_ID_0025' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(160): O803 Constant 'GT3_TRAN_ID_0285' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(134): O803 Constant 'GT3_TRAN_ID_0182' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(43): O803 Constant 'GT3_TRAN_ID_0112' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(37): O803 Constant 'GT3_TRAN_ID_0050' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(88): O803 Constant 'GT3_TRAN_ID_0128' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(130): O803 Constant 'GT3_TRAN_ID_0040' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(145): O803 Constant 'GT3_TRAN_ID_0258' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(20): O803 Constant 'GT3_TRAN_ID_0011' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(56): O803 Constant 'GT3_TRAN_ID_0106' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(120): O803 Constant 'GT3_TRAN_ID_0146' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(35): O803 Constant 'GT3_TRAN_ID_0113' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(116): O803 Constant 'GT3_TRAN_ID_0142' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(122): O803 Constant 'GT3_TRAN_ID_0148' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(119): O803 Constant 'GT3_TRAN_ID_0145' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(131): O803 Constant 'GT3_TRAN_ID_0251' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(63): O803 Constant 'GT3_TRAN_ID_0111' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(40): O803 Constant 'GT3_TRAN_ID_0034' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(66): O803 Constant 'GT3_TRAN_ID_0117' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(36): O803 Constant 'GT3_TRAN_ID_0027' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(91): O803 Constant 'GT3_TRAN_ID_0033' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(137): O803 Constant 'GT3_TRAN_ID_0188' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(143): O803 Constant 'GT3_TRAN_ID_0254' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(67): O803 Constant 'GT3_TRAN_ID_0018' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(22): O803 Constant 'GT3_TRAN_ID_0019_new' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(90): O803 Constant 'GT3_TRAN_ID_0130' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(41): O803 Constant 'GT3_TRAN_ID_0073' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(28): O803 Constant 'GT3_TRAN_ID_0015' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(23): O803 Constant 'GT3_TRAN_ID_0017' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(106): O803 Constant 'GT3_TRAN_ID_0134' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(61): O803 Constant 'GT3_TRAN_ID_0079' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(148): O803 Constant 'GT3_TRAN_ID_0268' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(26): O803 Constant 'GT3_TRAN_ID_0013' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(127): O803 Constant 'GT3_TRAN_ID_0175' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(125): O803 Constant 'GT3_TRAN_ID_0153' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(52): O803 Constant 'GT3_TRAN_ID_0074' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(136): O803 Constant 'GT3_TRAN_ID_0192' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(34): O803 Constant 'GT3_TRAN_ID_0115' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(138): O803 Constant 'GT3_TRAN_ID_0190' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(55): O803 Constant 'GT3_TRAN_ID_0035' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(30): O803 Constant 'GT3_TRAN_ID_0024' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(9): O803 Constant 'RSID_GET_TAX_APPLY_INFO' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(158): O803 Constant 'GT3_TRAN_ID_0284' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(62): O803 Constant 'GT3_TRAN_ID_0107' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(139): O803 Constant 'GT3_TRAN_ID_0216' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(115): O803 Constant 'GT3_TRAN_ID_0141' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(49): O803 Constant 'GT3_TRAN_ID_0086' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(93): O803 Constant 'GT3_TRAN_ID_0132' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(140): O803 Constant 'GT3_TRAN_ID_0093' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(94): O803 Constant 'GT3_TRAN_ID_0133' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(141): O803 Constant 'GT3_TRAN_ID_0252' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(142): O803 Constant 'GT3_TRAN_ID_0253' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(19): O803 Constant 'GT3_TRAN_ID_0002' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(32): O803 Constant 'GT3_TRAN_ID_0020' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(11): O803 Constant 'RSID_GET_QYSDS_HDZSFS' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(27): O803 Constant 'GT3_TRAN_ID_0012' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(39): O803 Constant 'GT3_TRAN_ID_0102' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(135): O803 Constant 'GT3_TRAN_ID_0189' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(121): O803 Constant 'GT3_TRAN_ID_0147' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(152): O803 Constant 'GT3_TRAN_ID_0280' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(51): O803 Constant 'GT3_TRAN_ID_0099' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(64): O803 Constant 'GT3_TRAN_ID_0054' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(31): O803 Constant 'GT3_TRAN_ID_0022' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(68): O803 Constant 'GT3_TRAN_ID_0008' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(117): O803 Constant 'GT3_TRAN_ID_0143' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(42): O803 Constant 'GT3_TRAN_ID_0082' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(54): O803 Constant 'GT3_TRAN_ID_0110' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(57): O803 Constant 'GT3_TRAN_ID_0121' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(99): O803 Constant 'GT3_TRAN_ID_0037' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(146): O803 Constant 'GT3_TRAN_ID_0261' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(53): O803 Constant 'GT3_TRAN_ID_0100' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(60): O803 Constant 'GT3_TRAN_ID_0124' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(24): O803 Constant 'GT3_TRAN_ID_0016' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(46): O803 Constant 'GT3_TRAN_ID_0055' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(154): O803 Constant 'GT3_TRAN_ID_0281' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(149): O803 Constant 'GT3_TRAN_ID_0272' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(70): O803 Constant 'GT3_TRAN_ID_0125' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(29): O803 Constant 'GT3_TRAN_ID_0023' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(129): O803 Constant 'GT3_TRAN_ID_0198' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(147): O803 Constant 'GT3_TRAN_ID_0264' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(107): O803 Constant 'GT3_TRAN_ID_0136' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(71): O803 Constant 'GT3_TRAN_ID_0127' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(45): O803 Constant 'GT3_TRAN_ID_0053' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(48): O803 Constant 'GT3_TRAN_ID_0084' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(47): O803 Constant 'GT3_TRAN_ID_0029' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(83): O803 Constant 'GT3_TRAN_ID_0031' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(133): O803 Constant 'GT3_TRAN_ID_0046' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(59): O803 Constant 'GT3_TRAN_ID_0057' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(69): O803 Constant 'GT3_TRAN_ID_0126' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(8): O803 Constant 'RSID_MISC' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(89): O803 Constant 'GT3_TRAN_ID_0129' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(124): O803 Constant 'GT3_TRAN_ID_0152' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(50): O803 Constant 'GT3_TRAN_ID_0088' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(118): O803 Constant 'GT3_TRAN_ID_0144' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(87): O803 Constant 'GT3_TRAN_ID_0120' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(144): O803 Constant 'GT3_TRAN_ID_0255' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(108): O803 Constant 'GT3_TRAN_ID_0137' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(65): O803 Constant 'GT3_TRAN_ID_0028' is declared but never used
+[FixInsight Optimization] KitApp.Remote.ServiceIds.pas(112): O803 Constant 'GT3_TRAN_ID_0250' is declared but never used
+[FixInsight Optimization] KitApp.App.Consts.pas(40): O803 Constant 'DATA_SYNC_BEAN_NAME' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(38): O803 Constant 'DM_DJ_PZSLJGLX' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(28): O803 Constant 'DM_ZS_JYFS' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(33): O803 Constant 'DM_DJ_DJZCLX' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(48): O803 Constant 'DM_GY_HY' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(43): O803 Constant 'DM_GY_GYKGLX' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(58): O803 Constant 'DM_GY_ZSPM' is declared but never used
+[FixInsight Optimization] KitApp.Data.Dicts.pas(53): O803 Constant 'DM_GY_ZSXM' is declared but never used
+[FixInsight Warning] Kit.UI.Combobox.pas(421): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.Combobox.pas(612): O804 Method parameter 'AControl' is declared but never used
+[FixInsight Warning] Kit.UI.Image.pas(344): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Panel.pas(396): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Controls.pas(430): W521 Return value of function 'KitLoadImage' might be undefined
+[FixInsight Warning] Kit.UI.Controls.pas(535): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Controls.pas(543): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Controls.pas(745): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Controls.pas(914): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Controls.pas(967): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] Kit.UI.Accordion.pas(838): W509 Unreachable code
+[FixInsight Warning] Kit.UI.Accordion.pas(924): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.SkinForm.pas(769): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.CaptionBar.pas(447): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.CommonDialog.pas(103): O801 CONST missing for unmodified string parameter 'ErrorMessage'
+[FixInsight Warning] Kit.UI.Labels.pas(335): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Button.pas(657): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Button.pas(1260): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Checkbox.pas(353): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.LoadingBox.pas(164): W519 Method 'TKitLoadingBox.MessageTextLabelDblClick' is empty
+[FixInsight Warning] Kit.UI.PageControl.pas(873): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.PageControl.pas(1064): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.PageControl.pas(1108): O801 CONST missing for unmodified string parameter 'StyleName'
+[FixInsight Warning] Kit.UI.PageControl.Common.pas(30): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.PageControl.Common.pas(30): O801 CONST missing for unmodified string parameter 'AName'
+[FixInsight Warning] Kit.UI.ImageButton.pas(197): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Edit.pas(465): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Edit.pas(881): W525 Missing INHERITED call in constructor
+[FixInsight Warning] GdiPlus.pas(11742): W521 Return value of function 'TGPBitmap.GetPixel' might be undefined
+[FixInsight Warning] GdiPlus.pas(12344): W521 Return value of function 'TGPMatrix.GetElements' might be undefined
+[FixInsight Warning] GdiPlus.pas(12535): W521 Return value of function 'TGPSolidBrush.GetColor' might be undefined
+[FixInsight Warning] GdiPlus.pas(12829): W521 Return value of function 'TGPLinearGradientBrush.GetLinearColors' might be undefined
+[FixInsight Warning] GdiPlus.pas(12946): W521 Return value of function 'TGPHatchBrush.GetBackgroundColor' might be undefined
+[FixInsight Warning] GdiPlus.pas(12951): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(13033): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(14066): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(15056): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(87): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(10229): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(11873): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(10493): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] GdiPlus.pas(10832): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] Kit.UI.ListCtrl.pas(1254): W509 Unreachable code
+[FixInsight Warning] Kit.UI.ListCtrl.pas(1902): W519 Method 'TKitCustomListView.DoHeaderSectionSizing' is empty
+[FixInsight Warning] Kit.UI.ListCtrl.pas(82): W523 Interface 'IKLCellEditor' declared without a GUID
+[FixInsight Warning] Kit.UI.ListCtrl.pas(1538): W528 Variable 'i' not used in FOR-loop
+[FixInsight Optimization] Kit.UI.ListCtrl.pas(1969): O804 Method parameter 'HasVertChanged' is declared but never used
+[FixInsight Optimization] Kit.UI.ListCtrl.pas(1969): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] Kit.UI.Scrollbar.pas(210): W521 Return value of function 'TKitScrollBar.RefreshScrollInfo' might be undefined
+[FixInsight Warning] Kit.UI.DateEdit.pas(235): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.DateEdit.Calendar.pas(3537): W519 Method 'TKitCustomDateEdit.UpdateTextFormatting' is empty
+[FixInsight Warning] Kit.UI.DateEdit.Calendar.pas(3061): W521 Return value of function 'GetDate' might be undefined
+[FixInsight Optimization] Kit.UI.DateEdit.Calendar.pas(2937): O801 CONST missing for unmodified string parameter 'ADisplayValue'
+[FixInsight Warning] Kit.UI.ScrollBox.pas(631): W517 Variable 'Style' hides a class field, method or property
+[FixInsight Warning] Kit.UI.ScrollBox.pas(645): W517 Variable 'Style' hides a class field, method or property
+[FixInsight Warning] Kit.UI.ScrollBox.pas(1064): W519 Method 'TKitScrollBox.PaintWindow' is empty
+[FixInsight Warning] Kit.UI.RichEdit.pas(429): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.RichEdit.pas(402): O801 CONST missing for unmodified string parameter 'Value'
+[FixInsight Warning] Kit.UI.RadioButton.pas(358): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.ProgressBar.pas(169): W525 Missing INHERITED call in constructor
+[FixInsight Warning] Kit.UI.Web.Browser.pas(274): W519 Method 'TKitWebBrowser.FitBrowser' is empty
+[FixInsight Warning] Kit.UI.Web.Browser.pas(493): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.Web.Browser.pas(336): O801 CONST missing for unmodified string parameter 'AUrl'
+[FixInsight Optimization] Kit.UI.Web.Browser.pas(342): O801 CONST missing for unmodified string parameter 'AUrl'
+[FixInsight Optimization] Kit.UI.Web.Browser.pas(477): O804 Method parameter 'ASender' is declared but never used
+[FixInsight Optimization] Kit.UI.Web.Browser.pas(477): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Web.Browser.pas(477): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Web.Browser.pas(477): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(109): O804 Method parameter 'Index' is declared but never used
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(109): O804 Method parameter 'LocaleID' is declared but never used
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(121): O804 Method parameter 'IID' is declared but never used
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(121): O804 Method parameter 'NameCount' is declared but never used
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(121): O804 Method parameter 'LocaleID' is declared but never used
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Web.JSBridge.pas(225): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutCtrl.pas(345): O804 Method parameter 'uMsg' is declared but never used
+[FixInsight Optimization] HTMLayoutCtrl.pas(345): O804 Method parameter 'wParam' is declared but never used
+[FixInsight Warning] HTMLayoutLib.pas(1205): W512 Odd ELSE-IF condition (review lines 1205 and 1207)
+[FixInsight Warning] HTMLayoutLib.pas(620): W526 Pointer to a nested method
+[FixInsight Warning] HTMLayoutLib.pas(641): W526 Pointer to a nested method
+[FixInsight Warning] HTMLayoutLib.pas(665): W526 Pointer to a nested method
+[FixInsight Optimization] HTMLayoutLib.pas(194): O804 Method parameter 'evtg' is declared but never used
+[FixInsight Optimization] HTMLayoutLib.pas(194): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(233): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(307): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(408): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1143): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1143): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1143): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1143): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1158): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1158): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1158): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1158): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1175): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1175): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1175): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1175): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1185): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1185): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1185): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1185): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1185): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] HTMLayoutLib.pas(1185): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] Sciter.pas(1936): W511 Object 'pEventArgs' created in TRY block
+[FixInsight Warning] Sciter.pas(2181): W517 Variable 'VM' hides a class field, method or property
+[FixInsight Warning] Sciter.pas(2331): W519 Method 'TSciter.ShowInspector' is empty
+[FixInsight Optimization] Sciter.pas(969): O804 Method parameter 'subsystem' is declared but never used
+[FixInsight Optimization] Sciter.pas(969): O804 Method parameter 'text_length' is declared but never used
+[FixInsight Optimization] Sciter.pas(1300): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(1324): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(1702): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(1790): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(1900): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(1922): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(1983): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(2031): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(2144): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(3341): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(4017): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(4157): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Sciter.pas(4157): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] SciterApi.pas(1034): O801 CONST missing for unmodified string parameter 'OfClass'
+[FixInsight Optimization] SciterApi.pas(973): O804 Method parameter 'ReplaceClassDef' is declared but never used
+[FixInsight Warning] SciterEx.pas(258): W508 Variable is assigned twice successively
+[FixInsight Optimization] SciterEx.pas(202): O804 Method parameter 'ASender' is declared but never used
+[FixInsight Optimization] SciterEx.pas(228): O804 Method parameter 'ASender' is declared but never used
+[FixInsight Optimization] SciterEx.pas(228): O804 Method parameter 'resType' is declared but never used
+[FixInsight Optimization] SciterEx.pas(228): O804 Method parameter 'requestId' is declared but never used
+[FixInsight Optimization] SciterEx.pas(414): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] SciterEx.pas(414): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] SciterEx.pas(414): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] SciterNative.pas(760): W521 Return value of function 'TSciterClassInfoList.ToString' might be undefined
+[FixInsight Warning] SciterNative.pas(964): W521 Return value of function 'TVMClassBagList.ToString' might be undefined
+[FixInsight Warning] SciterNative.pas(305): W523 Interface 'ISciterClassBag' declared without a GUID
+[FixInsight Warning] SciterNative.pas(523): W527 Property access in getter or setter
+[FixInsight Warning] SciterNative.pas(377): W528 Variable 'i' not used in FOR-loop
+[FixInsight Warning] SciterNative.pas(386): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] SciterNative.pas(821): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] SciterNative.pas(777): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] SciterOle.pas(26): W523 Interface 'ISciterOleClassInfo' declared without a GUID
+[FixInsight Optimization] SciterOle.pas(531): O804 Method parameter 'Obj' is declared but never used
+[FixInsight Warning] Kit.UI.Splitter.pas(787): W507 THEN statement is equal to ELSE statement
+[FixInsight Warning] Kit.UI.Splitter.pas(2181): W519 Method 'TKitCustomSplitter.WMSetCursor' is empty
+[FixInsight Warning] Kit.UI.Splitter.pas(611): W521 Return value of function 'TcxHotZoneStyle.DrawHotZone' might be undefined
+[FixInsight Optimization] Kit.UI.Splitter.pas(1475): O801 CONST missing for unmodified string parameter 'Value'
+[FixInsight Optimization] Kit.UI.Splitter.pas(1091): O804 Method parameter 'AHighlighted' is declared but never used
+[FixInsight Warning] Kit.UI.Form.pas(163): W519 Method 'TKitForm.OnCloseHandler' is empty
+[FixInsight Optimization] Kit.UI.Form.pas(99): O804 Method parameter 'Owner' is declared but never used
+[FixInsight Optimization] Kit.UI.Form.pas(99): O804 Method parameter 'AParameters' is declared but never used
+[FixInsight Optimization] Kit.UI.Form.pas(104): O804 Method parameter 'Owner' is declared but never used
+[FixInsight Optimization] Kit.UI.Form.pas(109): O804 Method parameter 'Owner' is declared but never used
+[FixInsight Optimization] Kit.UI.Form.pas(109): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.Form.pas(157): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Warning] SciterNativeBridge.pas(99): W521 Return value of function '__invoke' might be undefined
+[FixInsight Warning] SciterNativeActions.pas(72): W519 Method 'TSciterDefaultNativeAction.Lambda' is empty
+[FixInsight Warning] SciterNativeActions.pas(71): W521 Return value of function 'TSciterDefaultNativeAction.Lambda' might be undefined
+[FixInsight Warning] Kit.UI.WebBrowerEx.pas(250): W525 Missing INHERITED call in constructor
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(231): O801 CONST missing for unmodified string parameter 'html'
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(136): O804 Method parameter 'fEnable' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(141): O804 Method parameter 'pDO' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(141): O804 Method parameter 'ppDORet' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(146): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(146): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(151): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(177): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(177): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(187): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(192): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(197): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(197): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(197): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(202): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(202): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(202): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(202): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(210): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(210): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(210): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(210): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(211): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(216): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(216): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(216): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(221): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(221): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(221): Trial version shows no more than 5 messages per unit. Please upgrade.
+[FixInsight Optimization] Kit.UI.DateEdit.Calendar.pas(564): O803 Constant 'cxEditTimeFormatA' is declared but never used
+[FixInsight Optimization] HTMLayoutLib.pas(177): O803 Constant 'CORE_DLL' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(478): O803 Constant 'CORE_DLL' is declared but never used
+[FixInsight Optimization] Kit.UI.Controls.pas(29): O803 Constant 'DOCHOSTUIFLAG_NO3DBORDER' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(8): O803 Constant 'IID_IDocHostUIHandler' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(28): O803 Constant 'DOCHOSTUIFLAG_CODEPAGELINKEDFONTS' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(11): O803 Constant 'DOCHOSTUITYPE_AUTHOR' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(25): O803 Constant 'DOCHOSTUIFLAG_DIV_BLOCKDEFAULT' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(29): O803 Constant 'DOCHOSTUIFLAG_URL_ENCODING_DISABLE_UTF8' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(15): O803 Constant 'DOCHOSTUIDBLCLK_SHOWCODE' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(31): O803 Constant 'DOCHOSTUIFLAG_ENABLE_FORMS_AUTOCOMPLETE' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(23): O803 Constant 'DOCHOSTUIFLAG_DISABLE_OFFSCREEN' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(10): O803 Constant 'DOCHOSTUITYPE_BROWSE' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(17): O803 Constant 'DOCHOSTUIFLAG_DIALOG' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(18): O803 Constant 'DOCHOSTUIFLAG_DISABLE_HELP_MENU' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(21): O803 Constant 'DOCHOSTUIFLAG_DISABLE_SCRIPT_INACTIVE' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(27): O803 Constant 'DOCHOSTUIFLAG_OVERRIDEBEHAVIORFACTORY' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(30): O803 Constant 'DOCHOSTUIFLAG_URL_ENCODING_ENABLE_UTF8' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(32): O803 Constant 'DOCHOSTUIFLAG_ENABLE_INPLACE_NAVIGATION' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(33): O803 Constant 'DOCHOSTUIFLAG_IME_ENABLE_RECONVERSION' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(14): O803 Constant 'DOCHOSTUIDBLCLK_SHOWPROPERTIES' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(26): O803 Constant 'DOCHOSTUIFLAG_ACTIVATE_CLIENTHIT_ONLY' is declared but never used
+[FixInsight Optimization] Kit.UI.WebBrowerEx.pas(22): O803 Constant 'DOCHOSTUIFLAG_OPENNEWWIN' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2710): O803 Constant 'PropertyTagExifOECF' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2771): O803 Constant 'PropertyTagGpsLatitudeRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2527): O803 Constant 'PropertyTagImageWidth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2537): O803 Constant 'PropertyTagImageDescription' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2637): O803 Constant 'PropertyTagColorTransferFunction' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2713): O803 Constant 'PropertyTagExifDTOrig' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2304): O803 Constant 'EncoderCompression' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2271): O803 Constant 'ImageFormatMemoryBMP' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2578): O803 Constant 'PropertyTagDotRange' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2797): O803 Constant 'PropertyTagGpsProcessingMethod' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1449): O803 Constant 'PixelFormatDontCare' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2774): O803 Constant 'PropertyTagGpsLongitude' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2650): O803 Constant 'PropertyTagThumbnailPhotometricInterp' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1075): O803 Constant 'REAL_MIN' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2542): O803 Constant 'PropertyTagSamplesPerPixel' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2516): O803 Constant 'PropertyTagTypeSRational' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2791): O803 Constant 'PropertyTagGpsDestLongRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2547): O803 Constant 'PropertyTagXResolution' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2593): O803 Constant 'PropertyTagJPEGDCTables' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2726): O803 Constant 'PropertyTagExifLightSource' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1457): O803 Constant 'PixelFormat16bppARGB1555' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2531): O803 Constant 'PropertyTagPhotometricInterp' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2745): O803 Constant 'PropertyTagExifFocalYRes' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2775): O803 Constant 'PropertyTagGpsAltitudeRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2307): O803 Constant 'EncoderVersion' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1453): O803 Constant 'PixelFormat8bppIndexed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2550): O803 Constant 'PropertyTagPageName' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2529): O803 Constant 'PropertyTagBitsPerSample' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2680): O803 Constant 'PropertyTagThumbnailYCbCrSubsampling' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1076): O803 Constant 'REAL_TOLERANCE' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2514): O803 Constant 'PropertyTagTypeUndefined' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2289): O803 Constant 'FrameDimensionPage' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2688): O803 Constant 'PropertyTagChrominanceTable' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2583): O803 Constant 'PropertyTagSMaxSampleValue' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2700): O803 Constant 'PropertyTagPaletteHistogram' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2728): O803 Constant 'PropertyTagExifFocalLength' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2729): O803 Constant 'PropertyTagExifSubjectArea' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2270): O803 Constant 'ImageFormatUndefined' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2786): O803 Constant 'PropertyTagGpsImgDirRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2614): O803 Constant 'PropertyTagResolutionXLengthUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2772): O803 Constant 'PropertyTagGpsLatitude' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2787): O803 Constant 'PropertyTagGpsImgDir' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2594): O803 Constant 'PropertyTagJPEGACTables' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2776): O803 Constant 'PropertyTagGpsAltitude' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2733): O803 Constant 'PropertyTagExifDTOrigSS' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2543): O803 Constant 'PropertyTagRowsPerStrip' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2545): O803 Constant 'PropertyTagMinSampleValue' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2586): O803 Constant 'PropertyTagJPEGProc' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2659): O803 Constant 'PropertyTagThumbnailRowsPerStrip' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2708): O803 Constant 'PropertyTagExifSpectralSense' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2512): O803 Constant 'PropertyTagTypeLong' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2734): O803 Constant 'PropertyTagExifDTDigSS' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2752): O803 Constant 'PropertyTagExifCfaPattern' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2785): O803 Constant 'PropertyTagGpsTrack' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2757): O803 Constant 'PropertyTagExifExposureMode' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2624): O803 Constant 'PropertyTagHalftoneShape' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2747): O803 Constant 'PropertyTagExifSubjectLoc' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2756): O803 Constant 'PropertyTagExifCustomRendered' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2589): O803 Constant 'PropertyTagJPEGRestartInterval' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2310): O803 Constant 'EncoderTransformation' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2721): O803 Constant 'PropertyTagExifBrightness' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2574): O803 Constant 'PropertyTagTileByteCounts' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2309): O803 Constant 'EncoderQuality' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1458): O803 Constant 'PixelFormat24bppRGB' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2736): O803 Constant 'PropertyTagExifFPXVer' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1451): O803 Constant 'PixelFormat1bppIndexed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2763): O803 Constant 'PropertyTagExifContrast' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2798): O803 Constant 'PropertyTagGpsAreaInformation' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2538): O803 Constant 'PropertyTagEquipMake' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2582): O803 Constant 'PropertyTagSMinSampleValue' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1459): O803 Constant 'PixelFormat32bppRGB' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2592): O803 Constant 'PropertyTagJPEGQTables' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2528): O803 Constant 'PropertyTagImageHeight' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2676): O803 Constant 'PropertyTagThumbnailPrimaryChromaticities' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2740): O803 Constant 'PropertyTagExifRelatedWav' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2561): O803 Constant 'PropertyTagTransferFuncition' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2577): O803 Constant 'PropertyTagNumberOfInks' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2724): O803 Constant 'PropertyTagExifSubjectDist' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1074): O803 Constant 'REAL_MAX' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2573): O803 Constant 'PropertyTagTileOffset' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2698): O803 Constant 'PropertyTagPixelPerUnitX' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2667): O803 Constant 'PropertyTagThumbnailResolutionUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2705): O803 Constant 'PropertyTagExifFNumber' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2749): O803 Constant 'PropertyTagExifSensingMethod' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2603): O803 Constant 'PropertyTagGamma' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2630): O803 Constant 'PropertyTagThumbnailWidth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2750): O803 Constant 'PropertyTagExifFileSource' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1428): O803 Constant 'BLUE_SHIFT' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(541): O803 Constant 'FontStyleBoldItalic' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2662): O803 Constant 'PropertyTagThumbnailResolutionX' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2770): O803 Constant 'PropertyTagGpsVer' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2513): O803 Constant 'PropertyTagTypeRational' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2623): O803 Constant 'PropertyTagHalftoneDegree' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2645): O803 Constant 'PropertyTagThumbnailImageWidth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2778): O803 Constant 'PropertyTagGpsGpsSatellites' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2311): O803 Constant 'EncoderLuminanceTable' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2671): O803 Constant 'PropertyTagThumbnailDateTime' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2685): O803 Constant 'PropertyTagThumbnailCopyRight' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2699): O803 Constant 'PropertyTagPixelPerUnitY' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2765): O803 Constant 'PropertyTagExifSharpness' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2794): O803 Constant 'PropertyTagGpsDestBear' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2766): O803 Constant 'PropertyTagExifDeviceSettingDesc' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2748): O803 Constant 'PropertyTagExifExposureIndex' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2612): O803 Constant 'PropertyTagResolutionXUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2678): O803 Constant 'PropertyTagThumbnailYCbCrCoefficients' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2568): O803 Constant 'PropertyTagPrimaryChromaticities' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2697): O803 Constant 'PropertyTagPixelUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2584): O803 Constant 'PropertyTagTransferRange' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2558): O803 Constant 'PropertyTagT6Option' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1463): O803 Constant 'PixelFormat64bppARGB' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2605): O803 Constant 'PropertyTagSRGBRenderingIntent' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2554): O803 Constant 'PropertyTagFreeByteCounts' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2556): O803 Constant 'PropertyTagGrayResponseCurve' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2620): O803 Constant 'PropertyTagPrintFlagsBleedWidthScale' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2741): O803 Constant 'PropertyTagExifInterop' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2746): O803 Constant 'PropertyTagExifFocalResUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2712): O803 Constant 'PropertyTagExifVer' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2784): O803 Constant 'PropertyTagGpsTrackRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2601): O803 Constant 'PropertyTagICCProfile' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2709): O803 Constant 'PropertyTagExifISOSpeed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1465): O803 Constant 'PixelFormat32bppCMYK' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2296): O803 Constant 'FormatIDImageInformation' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2569): O803 Constant 'PropertyTagColorMap' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2308): O803 Constant 'EncoderRenderMethod' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2730): O803 Constant 'PropertyTagExifMakerNote' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2280): O803 Constant 'ImageFormatIcon' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2780): O803 Constant 'PropertyTagGpsGpsMeasureMode' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1452): O803 Constant 'PixelFormat4bppIndexed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2629): O803 Constant 'PropertyTagThumbnailFormat' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2727): O803 Constant 'PropertyTagExifFlash' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2649): O803 Constant 'PropertyTagThumbnailCompression' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2744): O803 Constant 'PropertyTagExifFocalXRes' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2779): O803 Constant 'PropertyTagGpsGpsStatus' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2536): O803 Constant 'PropertyTagDocumentName' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1429): O803 Constant 'ALPHA_MASK' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2274): O803 Constant 'ImageFormatWMF' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2571): O803 Constant 'PropertyTagTileWidth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2782): O803 Constant 'PropertyTagGpsSpeedRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2557): O803 Constant 'PropertyTagT4Option' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2581): O803 Constant 'PropertyTagSampleFormat' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2553): O803 Constant 'PropertyTagFreeOffset' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2764): O803 Constant 'PropertyTagExifSaturation' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2559): O803 Constant 'PropertyTagResolutionUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2790): O803 Constant 'PropertyTagGpsDestLat' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2691): O803 Constant 'PropertyTagLoopCount' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2525): O803 Constant 'PropertyTagNewSubfileType' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2687): O803 Constant 'PropertyTagLuminanceTable' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2675): O803 Constant 'PropertyTagThumbnailWhitePoint' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2716): O803 Constant 'PropertyTagExifCompConfig' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2423): O803 Constant 'ImageFlagsNone' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2759): O803 Constant 'PropertyTagExifDigitalZoomRatio' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2546): O803 Constant 'PropertyTagMaxSampleValue' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2560): O803 Constant 'PropertyTagPageNumber' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2570): O803 Constant 'PropertyTagHalftoneHints' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2768): O803 Constant 'PropertyTagExifUniqueImageID' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2625): O803 Constant 'PropertyTagHalftoneMisc' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2510): O803 Constant 'PropertyTagTypeASCII' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2725): O803 Constant 'PropertyTagExifMeteringMode' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2789): O803 Constant 'PropertyTagGpsDestLatRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2575): O803 Constant 'PropertyTagInkSet' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2607): O803 Constant 'PropertyTagImageTitle' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2565): O803 Constant 'PropertyTagHostComputer' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2287): O803 Constant 'FrameDimensionTime' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2555): O803 Constant 'PropertyTagGrayResponseUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2635): O803 Constant 'PropertyTagThumbnailSize' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2767): O803 Constant 'PropertyTagExifSubjectDistanceRange' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2535): O803 Constant 'PropertyTagFillOrder' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2549): O803 Constant 'PropertyTagPlanarConfig' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2566): O803 Constant 'PropertyTagPredictor' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2666): O803 Constant 'PropertyTagThumbnailPlanarConfig' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2751): O803 Constant 'PropertyTagExifSceneType' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2604): O803 Constant 'PropertyTagICCProfileDescriptor' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2532): O803 Constant 'PropertyTagThreshHolding' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2608): O803 Constant 'PropertyTagCopyright' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2717): O803 Constant 'PropertyTagExifCompBPP' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2305): O803 Constant 'EncoderColorDepth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1448): O803 Constant 'PixelFormatUndefined' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2646): O803 Constant 'PropertyTagThumbnailImageHeight' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2312): O803 Constant 'EncoderChrominanceTable' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1426): O803 Constant 'RED_SHIFT' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2534): O803 Constant 'PropertyTagCellHeight' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1462): O803 Constant 'PixelFormat48bppRGB' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2722): O803 Constant 'PropertyTagExifExposureBias' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2738): O803 Constant 'PropertyTagExifPixXDim' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2781): O803 Constant 'PropertyTagGpsGpsDop' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2626): O803 Constant 'PropertyTagHalftoneScreen' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2297): O803 Constant 'FormatIDJpegAppHeaders' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2647): O803 Constant 'PropertyTagThumbnailBitsPerSample' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2656): O803 Constant 'PropertyTagThumbnailStripOffsets' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2704): O803 Constant 'PropertyTagExifExposureTime' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2599): O803 Constant 'PropertyTagREFBlackWhite' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2777): O803 Constant 'PropertyTagGpsGpsTime' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2533): O803 Constant 'PropertyTagCellWidth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2737): O803 Constant 'PropertyTagExifColorSpace' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2587): O803 Constant 'PropertyTagJPEGInterFormat' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2795): O803 Constant 'PropertyTagGpsDestDistRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2657): O803 Constant 'PropertyTagThumbnailOrientation' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2732): O803 Constant 'PropertyTagExifDTSubsec' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2540): O803 Constant 'PropertyTagStripOffsets' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2572): O803 Constant 'PropertyTagTileLength' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2723): O803 Constant 'PropertyTagExifMaxAperture' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1466): O803 Constant 'PixelFormatMax' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2760): O803 Constant 'PropertyTagExifFocalLengthIn35mmFilm' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2793): O803 Constant 'PropertyTagGpsDestBearRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2633): O803 Constant 'PropertyTagThumbnailPlanes' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2714): O803 Constant 'PropertyTagExifDTDigitized' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2580): O803 Constant 'PropertyTagExtraSamples' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2564): O803 Constant 'PropertyTagArtist' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2742): O803 Constant 'PropertyTagExifFlashEnergy' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2613): O803 Constant 'PropertyTagResolutionYUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2783): O803 Constant 'PropertyTagGpsSpeed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2720): O803 Constant 'PropertyTagExifAperture' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2669): O803 Constant 'PropertyTagThumbnailTransferFunction' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2631): O803 Constant 'PropertyTagThumbnailHeight' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1464): O803 Constant 'PixelFormat64bppPARGB' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2567): O803 Constant 'PropertyTagWhitePoint' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2788): O803 Constant 'PropertyTagGpsMapDatum' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2522): O803 Constant 'PropertyTagExifIFD' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2530): O803 Constant 'PropertyTagCompression' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2719): O803 Constant 'PropertyTagExifShutterSpeed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2799): O803 Constant 'PropertyTagGpsDate' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1456): O803 Constant 'PixelFormat16bppRGB565' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2548): O803 Constant 'PropertyTagYResolution' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2636): O803 Constant 'PropertyTagThumbnailCompressedSize' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2743): O803 Constant 'PropertyTagExifSpatialFR' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2673): O803 Constant 'PropertyTagThumbnailArtist' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2707): O803 Constant 'PropertyTagExifExposureProg' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2761): O803 Constant 'PropertyTagExifSceneCaptureType' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2597): O803 Constant 'PropertyTagYCbCrSubsampling' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1454): O803 Constant 'PixelFormat16bppGrayScale' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2628): O803 Constant 'PropertyTagGridSize' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2762): O803 Constant 'PropertyTagExifGainControl' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(74): O803 Constant 'GDIPVER' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1427): O803 Constant 'GREEN_SHIFT' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1461): O803 Constant 'PixelFormat32bppPARGB' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2515): O803 Constant 'PropertyTagTypeSLONG' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2526): O803 Constant 'PropertyTagSubfileType' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2683): O803 Constant 'PropertyTagThumbnailRefBlackWhite' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2563): O803 Constant 'PropertyTagDateTime' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2617): O803 Constant 'PropertyTagPrintFlagsVersion' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2731): O803 Constant 'PropertyTagExifUserComment' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2579): O803 Constant 'PropertyTagTargetPrinter' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2596): O803 Constant 'PropertyTagYCbCrCoefficients' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2319): O803 Constant 'CodecIImageBytes' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2551): O803 Constant 'PropertyTagXPosition' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2632): O803 Constant 'PropertyTagThumbnailColorDepth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2664): O803 Constant 'PropertyTagThumbnailResolutionY' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2539): O803 Constant 'PropertyTagEquipModel' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2638): O803 Constant 'PropertyTagThumbnailData' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2670): O803 Constant 'PropertyTagThumbnailSoftwareUsed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2622): O803 Constant 'PropertyTagHalftoneLPIUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2800): O803 Constant 'PropertyTagGpsDifferential' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2598): O803 Constant 'PropertyTagYCbCrPositioning' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2509): O803 Constant 'PropertyTagTypeByte' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2621): O803 Constant 'PropertyTagHalftoneLPI' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2306): O803 Constant 'EncoderScanMethod' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2627): O803 Constant 'PropertyTagJPEGQuality' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2619): O803 Constant 'PropertyTagPrintFlagsBleedWidth' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2654): O803 Constant 'PropertyTagThumbnailEquipModel' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2634): O803 Constant 'PropertyTagThumbnailRawBytes' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2796): O803 Constant 'PropertyTagGpsDestDist' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2618): O803 Constant 'PropertyTagPrintFlagsCrop' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2660): O803 Constant 'PropertyTagThumbnailStripBytesCount' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2541): O803 Constant 'PropertyTagOrientation' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2279): O803 Constant 'ImageFormatEXIF' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2288): O803 Constant 'FrameDimensionResolution' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2273): O803 Constant 'ImageFormatEMF' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(1455): O803 Constant 'PixelFormat16bppRGB555' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2313): O803 Constant 'EncoderSaveFlag' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2544): O803 Constant 'PropertyTagStripBytesCount' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2576): O803 Constant 'PropertyTagInkNames' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2590): O803 Constant 'PropertyTagJPEGLosslessPredictors' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2758): O803 Constant 'PropertyTagExifWhiteBalance' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2588): O803 Constant 'PropertyTagJPEGInterLength' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2682): O803 Constant 'PropertyTagThumbnailYCbCrPositioning' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2651): O803 Constant 'PropertyTagThumbnailImageDescription' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2615): O803 Constant 'PropertyTagResolutionYLengthUnit' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2690): O803 Constant 'PropertyTagFrameDelay' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2773): O803 Constant 'PropertyTagGpsLongitudeRef' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2616): O803 Constant 'PropertyTagPrintFlags' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2562): O803 Constant 'PropertyTagSoftwareUsed' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2739): O803 Constant 'PropertyTagExifPixYDim' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2792): O803 Constant 'PropertyTagGpsDestLong' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2511): O803 Constant 'PropertyTagTypeShort' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2652): O803 Constant 'PropertyTagThumbnailEquipMake' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2552): O803 Constant 'PropertyTagYPosition' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2523): O803 Constant 'PropertyTagGpsIFD' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2658): O803 Constant 'PropertyTagThumbnailSamplesPerPixel' is declared but never used
+[FixInsight Optimization] GdiPlus.pas(2591): O803 Constant 'PropertyTagJPEGPointTransforms' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(38): O803 Constant 'SOH_INSERT_BEFORE' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(39): O803 Constant 'SOH_INSERT_AFTER' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(18): O803 Constant 'HLN_DIALOG_CREATED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(83): O803 Constant 'HANDLE_EXCHANGE' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(14): O803 Constant 'HLN_UPDATE_UI' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(27): O803 Constant 'HLDOM_INVALID_HANDLE' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(29): O803 Constant 'HLDOM_INVALID_PARAMETER' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(61): O803 Constant 'HANDLE_SCROLL' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(20): O803 Constant 'HLN_DOCUMENT_LOADED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(25): O803 Constant 'HLDOM_OK' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(86): O803 Constant 'HANDLE_GESTURE' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(41): O803 Constant 'INSERT_AT_END' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(103): O803 Constant 'PHASE_MASK_BUBBLING' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(28): O803 Constant 'HLDOM_PASSIVE_HANDLE' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(30): O803 Constant 'HLDOM_OPERATION_FAILED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(17): O803 Constant 'HLN_BEHAVIOR_CHANGED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(31): O803 Constant 'HLDOM_OK_NOT_HANDLED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(99): O803 Constant 'BEHAVIOR_DETACH' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(73): O803 Constant 'HANDLE_DATA_ARRIVED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(95): O803 Constant 'DISABLE_INITIALIZATION' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(104): O803 Constant 'PHASE_MASK_SINKING' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(19): O803 Constant 'HLN_DIALOG_CLOSE_RQ' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(89): O803 Constant 'HANDLE_ALL' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(11): O803 Constant 'HLN_CONTROL_CREATED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(26): O803 Constant 'HLDOM_INVALID_HWND' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(105): O803 Constant 'PHASE_MASK_HANDLED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(9): O803 Constant 'HLN_CREATE_CONTROL' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(37): O803 Constant 'SOH_REPLACE' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(64): O803 Constant 'HANDLE_TIMER' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(15): O803 Constant 'HLN_DESTROY_CONTROL' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(12): O803 Constant 'HLN_DATA_LOADED' is declared but never used
+[FixInsight Optimization] HTMLayoutAPI.pas(70): O803 Constant 'HANDLE_DRAW' is declared but never used
+[FixInsight Optimization] MLang.pas(39): O803 Constant 'IID_IMultiLanguage3' is declared but never used
+[FixInsight Optimization] MLang.pas(21): O803 Constant 'IID_IMLangStringBufA' is declared but never used
+[FixInsight Optimization] MLang.pas(63): O803 Constant 'MIMECONTF_PRIVCONVERTER' is declared but never used
+[FixInsight Optimization] MLang.pas(50): O803 Constant 'MLSTR_WRITE' is declared but never used
+[FixInsight Optimization] MLang.pas(58): O803 Constant 'MIMECONTF_MINIMAL' is declared but never used
+[FixInsight Optimization] MLang.pas(30): O803 Constant 'IID_IMLangConvertCharset' is declared but never used
+[FixInsight Optimization] MLang.pas(62): O803 Constant 'MIMECONTF_EXPORT' is declared but never used
+[FixInsight Optimization] MLang.pas(59): O803 Constant 'MIMECONTF_IMPORT' is declared but never used
+[FixInsight Optimization] MLang.pas(60): O803 Constant 'MIMECONTF_SAVABLE_MAILNEWS' is declared but never used
+[FixInsight Optimization] MLang.pas(36): O803 Constant 'IID_IMLangCodePages' is declared but never used
+[FixInsight Optimization] MLang.pas(20): O803 Constant 'IID_IMLangStringBufW' is declared but never used
+[FixInsight Optimization] MLang.pas(64): O803 Constant 'MIMECONTF_VALID' is declared but never used
+[FixInsight Optimization] MLang.pas(67): O803 Constant 'MIMECONTF_MIME_LATEST' is declared but never used
+[FixInsight Optimization] MLang.pas(16): O803 Constant 'MultiLanguageMinorVersion' is declared but never used
+[FixInsight Optimization] MLang.pas(68): O803 Constant 'MIMECONTF_MIME_REGISTRY' is declared but never used
+[FixInsight Optimization] MLang.pas(15): O803 Constant 'MultiLanguageMajorVersion' is declared but never used
+[FixInsight Optimization] MLang.pas(27): O803 Constant 'IID_IEnumCodePage' is declared but never used
+[FixInsight Optimization] MLang.pas(23): O803 Constant 'IID_IMLangStringWStr' is declared but never used
+[FixInsight Optimization] MLang.pas(49): O803 Constant 'MLSTR_READ' is declared but never used
+[FixInsight Optimization] MLang.pas(24): O803 Constant 'IID_IMLangStringAStr' is declared but never used
+[FixInsight Optimization] MLang.pas(35): O803 Constant 'IID_IStream' is declared but never used
+[FixInsight Optimization] MLang.pas(29): O803 Constant 'IID_IEnumScript' is declared but never used
+[FixInsight Optimization] MLang.pas(34): O803 Constant 'IID_ISequentialStream' is declared but never used
+[FixInsight Optimization] MLang.pas(18): O803 Constant 'LIBID_MultiLanguage' is declared but never used
+[FixInsight Optimization] MLang.pas(66): O803 Constant 'MIMECONTF_MIME_IE4' is declared but never used
+[FixInsight Optimization] MLang.pas(33): O803 Constant 'IID_IMultiLanguage2' is declared but never used
+[FixInsight Optimization] MLang.pas(38): O803 Constant 'IID_IMLangFontLink2' is declared but never used
+[FixInsight Optimization] MLang.pas(56): O803 Constant 'MIMECONTF_MAILNEWS' is declared but never used
+[FixInsight Optimization] MLang.pas(57): O803 Constant 'MIMECONTF_BROWSER' is declared but never used
+[FixInsight Optimization] MLang.pas(26): O803 Constant 'IID_IMLangLineBreakConsole' is declared but never used
+[FixInsight Optimization] MLang.pas(65): O803 Constant 'MIMECONTF_VALID_NLS' is declared but never used
+[FixInsight Optimization] MLang.pas(28): O803 Constant 'IID_IEnumRfc1766' is declared but never used
+[FixInsight Optimization] MLang.pas(22): O803 Constant 'IID_IMLangString' is declared but never used
+[FixInsight Optimization] MLang.pas(32): O803 Constant 'IID_IMultiLanguage' is declared but never used
+[FixInsight Optimization] MLang.pas(61): O803 Constant 'MIMECONTF_SAVABLE_BROWSER' is declared but never used
+[FixInsight Optimization] MLang.pas(37): O803 Constant 'IID_IMLangFontLink' is declared but never used
+[FixInsight Optimization] SciterApi.pas(36): O803 Constant 'SC_DOCUMENT_COMPLETE' is declared but never used
+[FixInsight Optimization] SciterApi.pas(24): O803 Constant 'SOH_INSERT_BEFORE' is declared but never used
+[FixInsight Optimization] SciterApi.pas(25): O803 Constant 'SOH_INSERT_AFTER' is declared but never used
+[FixInsight Optimization] SciterApi.pas(22): O803 Constant 'SIH_APPEND_AFTER_LAST' is declared but never used
+[FixInsight Optimization] SciterApi.pas(28): O803 Constant 'HV_OK_TRUE' is declared but never used
+[FixInsight Optimization] SciterApi.pas(44): O803 Constant 'LOAD_DELAYED' is declared but never used
+[FixInsight Optimization] SciterApi.pas(30): O803 Constant 'HV_BAD_PARAMETER' is declared but never used
+[FixInsight Optimization] SciterApi.pas(21): O803 Constant 'SIH_INSERT_AT_START' is declared but never used
+[FixInsight Optimization] SciterApi.pas(31): O803 Constant 'HV_INCOMPATIBLE_TYPE' is declared but never used

@@ -1,0 +1,592 @@
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\core\remote\RemoteServiceInvoker.java
+方法名：init
+代码行定位：146
+
+143         		if (helper != null) return;
+144         		KeyStore keyStore = null;
+145         		String keyStoreSecret = AppSettings.getKeystoreSecret();
+146         		Log.e("11111","1111="+keyStoreSecret);
+147         		String keyStoreFilename=AppSettings.getKeystoreFile();
+148         		Log.e("2222","2222="+keyStoreFilename);
+149         		InputStream inputStream = null;
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\core\remote\RemoteServiceInvoker.java
+方法名：init
+代码行定位：148
+
+145         		String keyStoreSecret = AppSettings.getKeystoreSecret();
+146         		Log.e("11111","1111="+keyStoreSecret);
+147         		String keyStoreFilename=AppSettings.getKeystoreFile();
+148         		Log.e("2222","2222="+keyStoreFilename);
+149         		InputStream inputStream = null;
+150         		try	{
+151         			AssetManager assets = GlobalVar.getInstance().getApplicationContext().getAssets();
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\core\remote\ServiceResponseHandler.java
+方法名：showHttpTotalTimes
+代码行定位：82
+
+79         	private void showHttpTotalTimes(int httpStatusCode,String errorMsg){
+80         		PublicConstant.END_HTTP_TIME = System.currentTimeMillis();
+81         		PublicConstant.HTTP_TOTAL_TIME = PublicConstant.END_HTTP_TIME - PublicConstant.START_HTTP_TIME;
+82         		Log.e("HTTP_TOTAL_TIME","HTTP_TOTAL_TIME = "+PublicConstant.HTTP_TOTAL_TIME);
+83         		Map<String,Object> dataMap = new HashMap<>();
+84         		dataMap.put("userId", GlobalVar.getInstance().getNsrdjxx() != null ? GlobalVar.getInstance().getNsrdjxx().getNsrsbh():null);
+85         		dataMap.put("swjgDm", GlobalVar.getInstance().getNsrdjxx() != null ? GlobalVar.getInstance().getNsrdjxx().getZgswjDm():null);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\core\remote\UploadFileDataService.java
+方法名：onSuccess
+代码行定位：73
+
+70                 RemoteServiceInvoker.invoke("D1075", params, new ServiceResponseHandler(this) {
+71                     @Override
+72                     public void onSuccess(Object result) {
+73                         Log.e("success","success");
+74                         PublicConstant.HTTP_STRING_LIST.clear();
+75                     }
+76
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\core\remote\UploadFileDataService.java
+方法名：onFailure
+代码行定位：79
+
+76
+77                     @Override
+78                     public void onFailure(RemoteServiceInvokeError error, String rawJsonData) {
+79                         Log.e("fail","fail");
+80                         PublicConstant.HTTP_STRING_LIST.clear();
+81                     }
+82                 });
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\Ssyhzgqx_ccs\SsyhzgUtils.java
+方法名：onSuccess
+代码行定位：40
+
+37                     public void onSuccess(final Object result) {
+38                         AnimDialogHelper.dismiss();
+39                         Map<String, Object> dzswjYspXmlsjbVO = (Map) ((Map) result).get("DzswjYspXmlsjbVO");
+40                         Log.i("dzswjYspXmlsjbVO","dzswjYspXmlsjbVO : "+dzswjYspXmlsjbVO.get("yspzXmlsj"));
+41                         if (dzswjYspXmlsjbVO.get("yspzXmlsj") == null) {
+42                             callBack.setZsxm(new ArrayList<String>(),null);
+43                             return;
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\Ssyhzgqx_ccs\Ssyhzgqx_ccsFragment.java
+方法名：setData
+代码行定位：120
+
+117             }
+118
+119             private void setData() {
+120                 Log.i("mapData","mapData :  "+xgMap);
+121                 if (xgMap.get("ccsyhzgqxsqspbGrid")!=null){
+122                     final Map<String,Object> yhssyhzgqxsqspbGrid = (Map<String, Object>) xgMap.get("ccsyhzgqxsqspbGrid");
+123                     if (yhssyhzgqxsqspbGrid.get("ccsyhzgqxsqspbGridlb")!=null){
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\Ssyhzgqx_ccs\Ssyhzgqx_ccsFragment.java
+方法名：onClick
+代码行定位：241
+
+238                         if (list.size()>=8){
+239                             toast("车辆或船舶信息过多，建议到大厅进行处理!");
+240                         }
+241                         Log.i("testtag","sxid: "+sxid);
+242                         Bundle bundle = new Bundle();
+243                         bundle.putSerializable("ysqpdf", (Serializable) CreatPdf());
+244                         bundle.putString("ysqxml", getXML());
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\Ssyhzgqx_ccs\Ssyhzgqx_ccsPdfFragment.java
+方法名：CreatPdf
+代码行定位：111
+
+108                 List<Map<String, Object>> grid = new ArrayList<Map<String, Object>>();
+109                 Map<String, Object> gridlb;
+110                 Map<String, Object> gridlbtemp;
+111                 Log.i("testtag","allList : "+allList.toString());
+112                 allList=removeDuplicate(allList);
+113                 if (allList!=null){
+114                     for (int i = 0; i <allList.size() ; i++) {
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\Ssyhzgqx_ccs\Ssyhzgqx_ccsPdfFragment.java
+方法名：setPDF
+代码行定位：162
+
+159             }
+160
+161             private void setPDF(final Map<String, Object> xgMap) {
+162                 Log.i("mapData","mapData :  "+xgMap);
+163                 List<Map<String,Object>> jmsspjgGridlb=new ArrayList<>();
+164                 if (xgMap.get("yhssyhzgqxsqspbGrid")!=null) {
+165                     Map<String, Object> ccsyhzgqxsqspbGrid = (Map<String, Object>) xgMap.get("yhssyhzgqxsqspbGrid");
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\Ssyhzgqx_ccs\Ssyhzgqx_ccsUtils.java
+方法名：onSuccess
+代码行定位：79
+
+76                     public void onSuccess(final Object result) {
+77
+78                         Map<String, Object> dzswjYspXmlsjbVO = (Map) ((Map) result).get("DzswjYspXmlsjbVO");
+79                         Log.i("dzswjYspXmlsjbVO","dzswjYspXmlsjbVO : "+dzswjYspXmlsjbVO.get("yspzXmlsj"));
+80                         if (dzswjYspXmlsjbVO.get("yspzXmlsj") == null) {
+81                             callBack.loadFailed(mContext, "获取对应的预申请信息失败", true);
+82                             return;
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\cwkjzdba\CwkjzdBaPdfFragment.java
+方法名：otherOperation
+代码行定位：129
+
+126                 List<Map<String, Object>> grid = new ArrayList<Map<String, Object>>();
+127
+128                 for (int i = 0; i < mAllxx.get(2).size(); i++) {
+129                     Log.e("????", mAllxx.get(2).get(i).get("7") + "?" + mAllxx.get(2).get(i).get("8") + "");
+130                     Map<String, Object> gridlb = new HashMap<String, Object>();
+131                     gridlb.put("kjbbmc" + (i + 1), GjText(CwkjzdbaDeatailFragment.DM_GY_CWBBZL, mAllxx.get(2).get(i).get("6") + ""));
+132
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：createViewImpl
+代码行定位：95
+
+92
+93             @Override
+94             public View createViewImpl(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+95                 Log.e("","createViewImpl");
+96                 View view = inflater.inflate(R.layout.activity_hjssbbb, null);
+97                 ViewUtils.inject(this, view);
+98                 setTitle(getActivity().getIntent().getExtras().getString("title"));
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onDestroy
+代码行定位：618
+
+615             @Override
+616             public void onDestroy() {
+617                 super.onDestroy();
+618                 Log.e("","onDestroy");
+619                 listskxx.clear();
+620             }
+621
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onAttach
+代码行定位：625
+
+622             @Override
+623             public void onAttach(Context context) {
+624                 super.onAttach(context);
+625                 Log.e("","onAttach");
+626             }
+627
+628             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onCreate
+代码行定位：631
+
+628             @Override
+629             public void onCreate(@Nullable Bundle savedInstanceState) {
+630                 super.onCreate(savedInstanceState);
+631                 Log.e("","onCreate");
+632             }
+633
+634             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onCreateView
+代码行定位：636
+
+633
+634             @Override
+635             public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+636                 Log.e("","onCreateView");
+637                 return super.onCreateView(inflater, container, savedInstanceState);
+638             }
+639
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onActivityCreated
+代码行定位：643
+
+640             @Override
+641             public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+642                 super.onActivityCreated(savedInstanceState);
+643                 Log.e("","onActivityCreated");
+644             }
+645
+646             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onStart
+代码行定位：649
+
+646             @Override
+647             public void onStart() {
+648                 super.onStart();
+649                 Log.e("","onStart");
+650             }
+651
+652             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onResume
+代码行定位：655
+
+652             @Override
+653             public void onResume() {
+654                 super.onResume();
+655                 Log.e("","onResume");
+656             }
+657
+658             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onPause
+代码行定位：661
+
+658             @Override
+659             public void onPause() {
+660                 super.onPause();
+661                 Log.e("","onPause");
+662             }
+663
+664             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onStop
+代码行定位：667
+
+664             @Override
+665             public void onStop() {
+666                 super.onStop();
+667                 Log.e("","onStop");
+668             }
+669
+670             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onDestroyView
+代码行定位：673
+
+670             @Override
+671             public void onDestroyView() {
+672                 super.onDestroyView();
+673                 Log.e("","onDestroyView");
+674             }
+675
+676             @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\hjssbbB\HjssbbBFragment.java
+方法名：onDetach
+代码行定位：679
+
+676             @Override
+677             public void onDetach() {
+678                 super.onDetach();
+679                 Log.e("","onDetach");
+680             }
+681         }
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\idscan\util\Debug.java
+方法名：forcePrint
+代码行定位：121
+
+118         	 * @param msg
+119         	 */
+120         	public static void forcePrint(String msg) {
+121         		Log.i(TAG, "forcePrint: " + msg);
+122         	}
+123
+124         	/**
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\idscan\util\Debug.java
+方法名：forcePrint
+代码行定位：131
+
+128         	 * @param msg
+129         	 */
+130         	public static void forcePrint(String tag, String msg) {
+131         		Log.i(checkTag(tag), "forcePrint: " + msg);
+132         	}
+133
+134         	/**
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\idscan\util\Debug.java
+方法名：forcePrint
+代码行定位：141
+
+138         	 * @param msg
+139         	 */
+140         	public static void forcePrint(String tag, String msg, Throwable throwable) {
+141         		Log.i(checkTag(tag), "forcePrint: " + msg, throwable);
+142         	}
+143
+144         }
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\jwzczzkgqyjmsfrdsq\GcglryFragment.java
+方法名：initData
+代码行定位：109
+
+106
+107                     }
+108                 };
+109                 Log.e("???????mNowListJ",mNowListJntzzzkXX+"");
+110                 mjntzzzkAdapter = new GcglryAdapter(getActivity(), mNowListJntzzzkXX, mzt,fragmentStatuHd);
+111                 fragment_jntzzzk_ml.setAdapter(mjntzzzkAdapter);
+112
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\jwzczzkgqyjmsfrdsq\GcglryFragment.java
+方法名：onDestroy
+代码行定位：120
+
+117         //        mNowListJntzzzkXX
+118                 List<Map<String,Object>>  mHdxx=new ArrayList<>();
+119                 mHdxx.addAll(mNowListJntzzzkXX);
+120                 Log.e("???????mHdxx",mHdxx+"");
+121
+122                 if (iswc()){
+123                     mListMapHd.hdzt(mHdxx,1);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\jwzczzkgqyjmsfrdsq\QyefzyysytpqddshFragment.java
+方法名：initData
+代码行定位：89
+
+86         //        }
+87                 List<Map<String,Object>>   mJntzzzkXX= (List<Map<String, Object>>) getArguments().getSerializable("qyefzyysytpqdsh");
+88                 mNowListJntzzzkXX.addAll(mJntzzzkXX);
+89                 Log.e("?????mNowListJntzzzkXX",mNowListJntzzzkXX+"");
+90                 mzt = new HashMap<>();
+91                 for (int i = 0; i< mNowListJntzzzkXX.size(); i++){
+92                     mzt.put(i,false);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\qysdsjmba\YhjmxmFragment.java
+方法名：loadSucces
+代码行定位：169
+
+166                     public void loadSucces(Object object) {
+167                         jmzlxList.clear();
+168                         jmzlxList = (List<Map<String, Object>>) object;
+169                         Log.e("?????",jmzlxList+"");
+170                     }
+171                 });
+172             }
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\qysdsjmba\YhjmxmFragment.java
+方法名：loadSucces
+代码行定位：183
+
+180                     public void loadSucces(Object object) {
+181                         jmlxList.clear();
+182                         jmlxList = (List<Map<String, Object>>) object;
+183                         Log.e("?????",jmlxList+"");
+184
+185                     }
+186                 });
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\rkjmtssq\RkjmtssqFragment_tsfmx.java
+方法名：getData
+代码行定位：192
+
+189                         + pzhm + "</pzhm><ttsjlxDm>02</ttsjlxDm><zgswjgDm>" + substring + "</zgswjgDm><pzzlDm>" + pzzlDm + "</pzzlDm>"+nsrjmxxGrid);
+190                 params.put("tranId", RemoteServiceIds.SWZJ_HXZG_ZS_CXNSRRKXXJMRKZCRK);
+191                 code.setMapSelect(new HashMap<String, Object>());
+192                 Log.i("params","params : "+params);
+193                 RemoteServiceInvoker.invoke(RemoteServiceIds.RSID_GT3_CORE_SERVICE_GATEWAY, params, new ServiceResponseHandler(mActivity) {
+194                     @Override
+195                     public void onSuccess(Object result) {
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\rkjmtssq\RkjmtssqFragment_tsjbxx.java
+方法名：onClick
+代码行定位：103
+
+100                 tv_tsfyjwszh.setOnClickListener(new View.OnClickListener() {
+101                     @Override
+102                     public void onClick(View v) {
+103                         Log.i("tag","tsfyjwszhDM : "+tsfyjwszhDM);
+104                         PbUtils.alertDmDialog(getActivity(),"退税费依据文书字号",tv_tsfyjwszh,tsfyjwszhDM);
+105                     }
+106                 });
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\skjn\AliPayForHtml.java
+方法名：onPageStarted
+代码行定位：107
+
+104
+105                     @Override
+106                     public void onPageStarted(WebView view, String url, Bitmap favicon) {
+107                         Log.e("url2","url2"+url);
+108                         super.onPageStarted(view, url, favicon);
+109                     }
+110
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\skjn\UnioPayForHtml.java
+方法名：shouldOverrideUrlLoading
+代码行定位：92
+
+89                     @Override
+90                     public boolean shouldOverrideUrlLoading(WebView view, String url) {
+91         //                view.loadUrl(url);   //在当前的webview中跳转到新的url
+92                         Log.e("url1","url1"+url);
+93                         if(url.contains("feePayResult.action")){
+94                             Intent in = new Intent();
+95                             in.putExtra("success","success");
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\bsfw\skjn\UnioPayForHtml.java
+方法名：onPageStarted
+代码行定位：110
+
+107                     @Override
+108                     public void onPageStarted(WebView view, String url, Bitmap favicon) {
+109         //                AnimDialogHelper.alertProgressMessage(UnioPayForHtml.this,"正在跳转银联页面...");
+110                         Log.e("url2","url2"+url);
+111                         super.onPageStarted(view, url, favicon);
+112                     }
+113                     @Override
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\root\common\helper\LoginHelper.java
+方法名：dwlogin
+代码行定位：85
+
+82                 param.put("s", XmlUtils.Map2XML(params));
+83                 param.put("tranId", RemoteServiceIds.DZSWJ_ZHGLXT_MHQX_YHGL_YHLOGIN);
+84                 t1 = System.currentTimeMillis();
+85                 Log.e("time1", "total=" + t1);
+86                 RemoteServiceInvoker.invoke(RemoteServiceIds.RSID_DZSWJ_LOGIN, param,
+87                         new ServiceResponseHandler(mContext) {
+88                             @SuppressWarnings("unchecked")
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\root\common\helper\LoginHelper.java
+方法名：onSuccess
+代码行定位：92
+
+89                             @Override
+90                             public void onSuccess(Object result) {
+91                                 t2 = System.currentTimeMillis();
+92                                 Log.e("time2", "t2=" + t2);
+93                                 tt = t2 - t1;
+94                                 Log.e("time", "total=" + tt);
+95                                 Map<String, Object> resultMap = (Map<String, Object>) result;
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\module\root\common\helper\LoginHelper.java
+方法名：onSuccess
+代码行定位：94
+
+91                                 t2 = System.currentTimeMillis();
+92                                 Log.e("time2", "t2=" + t2);
+93                                 tt = t2 - t1;
+94                                 Log.e("time", "total=" + tt);
+95                                 Map<String, Object> resultMap = (Map<String, Object>) result;
+96                                 if (resultMap.get("ret_code").toString().equals(LOGIN_SUCCESS)) {
+97                                     AnimDialogHelper.dismiss();
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\tools\RSAUtil.java
+方法名：createKeyIfNeed
+代码行定位：64
+
+61                         generator.generateKeyPair();
+62                     }
+63                 } catch (Exception e) {
+64                     Log.e("e", Log.getStackTraceString(e));
+65                 }
+66             }
+67
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：httpGet
+代码行定位：93
+
+90                     return EntityUtils.toByteArray(resp.getEntity());
+91
+92                 } catch (Exception e) {
+93                     Log.e(TAG, "httpGet exception, e = " + e.getMessage());
+94                     e.printStackTrace();
+95                     return null;
+96                 }
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：httpPost
+代码行定位：122
+
+119
+120                     return EntityUtils.toByteArray(resp.getEntity());
+121                 } catch (Exception e) {
+122                     Log.e(TAG, "httpPost exception, e = " + e.getMessage());
+123                     e.printStackTrace();
+124                     return null;
+125                 }
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：readFromFile
+代码行定位：203
+
+200                     len = (int) file.length();
+201                 }
+202
+203                 Log.d(TAG, "readFromFile : offset = " + offset + " len = " + len + " offset + len = " + (offset + len));
+204
+205                 if(offset <0){
+206                     Log.e(TAG, "readFromFile invalid offset:" + offset);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：readFromFile
+代码行定位：227
+
+224                     in.close();
+225
+226                 } catch (Exception e) {
+227                     Log.e(TAG, "readFromFile : errMsg = " + e.getMessage());
+228                     e.printStackTrace();
+229                 }
+230                 return b;
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：extractThumbNail
+代码行定位：247
+
+244                         tmp = null;
+245                     }
+246
+247                     Log.d(TAG, "extractThumbNail: round=" + width + "x" + height + ", crop=" + crop);
+248                     final double beY = options.outHeight * 1.0 / height;
+249                     final double beX = options.outWidth * 1.0 / width;
+250                     Log.d(TAG, "extractThumbNail: extract beX = " + beX + ", beY = " + beY);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：extractThumbNail
+代码行定位：250
+
+247                     Log.d(TAG, "extractThumbNail: round=" + width + "x" + height + ", crop=" + crop);
+248                     final double beY = options.outHeight * 1.0 / height;
+249                     final double beX = options.outWidth * 1.0 / width;
+250                     Log.d(TAG, "extractThumbNail: extract beX = " + beX + ", beY = " + beY);
+251                     options.inSampleSize = (int) (crop ? (beY > beX ? beX : beY) : (beY < beX ? beX : beY));
+252                     if (options.inSampleSize <= 1) {
+253                         options.inSampleSize = 1;
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：extractThumbNail
+代码行定位：279
+
+276
+277                     options.inJustDecodeBounds = false;
+278
+279                     Log.i(TAG, "bitmap required size=" + newWidth + "x" + newHeight + ", orig=" + options.outWidth + "x" + options.outHeight + ", sample=" + options.inSampleSize);
+280                     Bitmap bm = BitmapFactory.decodeFile(path, options);
+281                     if (bm == null) {
+282                         Log.e(TAG, "bitmap decode failed");
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：extractThumbNail
+代码行定位：286
+
+283                         return null;
+284                     }
+285
+286                     Log.i(TAG, "bitmap decoded size=" + bm.getWidth() + "x" + bm.getHeight());
+287                     final Bitmap scale = Bitmap.createScaledBitmap(bm, newWidth, newHeight, true);
+288                     if (scale != null) {
+289                         bm.recycle();
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\com\css\gxydbs\utils\http\WxApiUrl.java
+方法名：extractThumbNail
+代码行定位：306
+
+303                     return bm;
+304
+305                 } catch (final OutOfMemoryError e) {
+306                     Log.e(TAG, "decode bitmap failed: " + e.getMessage());
+307                     options = null;
+308                 }
+309
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\gov\gt3\iitms\base\common\util\ZipCompressor.java
+方法名：compress
+代码行定位：56
+
+53                         arrayList = (ArrayList) inDetailList.get(i);
+54                         entryName = (String) arrayList.get(0);
+55                         entryContent = (byte[]) ((byte[]) arrayList.get(1));
+56                         Log.d("sunjie","压缩的文件名为：" + entryName + ";压缩的文件内容为:" + "长度:" + entryContent.length);
+57
+58                         ZipEntry ze = new ZipEntry(entryName);
+59                         zos.putNextEntry(ze);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\gxydbs\src\main\java\gov\gt3\iitms\base\common\util\ZipCompressor.java
+方法名：compress
+代码行定位：64
+
+61                         ++i;
+62                     }
+63                 } catch (Exception var19) {
+64                     Log.e("sunjie","压缩出错" + var19.getMessage(), var19);
+65                     throw new RuntimeException("压缩出错" + var19.getMessage());
+66                 } finally {
+67                     try {
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\ocr_ui\src\main\java\com\baidu\ocr\ui\util\ImageUtil.java
+方法名：getOrientation
+代码行定位：78
+
+75                     // Identify the byte order.
+76                     int tag = pack(jpeg, offset, 4, false);
+77                     if (tag != 0x49492A00 && tag != 0x4D4D002A) {
+78                         Log.e(TAG, "Invalid byte order");
+79                         return 0;
+80                     }
+81                     boolean littleEndian = (tag == 0x49492A00);
+所在位置：C:\新建文件夹\app代码\移动办税\AndroidProjectBS\ocr_ui\src\main\java\com\baidu\ocr\ui\util\ImageUtil.java
+方法名：getOrientation
+代码行定位：118
+
+115                     }
+116                 }
+117
+118                 Log.i(TAG, "Orientation not found");
+119                 return 0;
+120             }
